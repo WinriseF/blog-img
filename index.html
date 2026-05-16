@@ -1,1 +1,304 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><title>2025 Blog Images</title></head><body></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="robots" content="noindex" />
+	<title>WinriseF Image Hub</title>
+	<style>
+		:root {
+			color-scheme: light;
+			--bg: #f5f7fb;
+			--panel: #ffffff;
+			--panel-soft: #eef4f8;
+			--text: #182026;
+			--muted: #64727d;
+			--line: #d9e2e8;
+			--accent: #1f8a70;
+			--accent-dark: #146b58;
+			--shadow: 0 20px 50px rgba(18, 32, 44, 0.08);
+		}
+
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0;
+			background: var(--bg);
+			color: var(--text);
+			font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+			letter-spacing: 0;
+		}
+
+		main {
+			width: min(1120px, calc(100% - 32px));
+			margin: 0 auto;
+			padding: 56px 0 44px;
+		}
+
+		header {
+			display: grid;
+			grid-template-columns: minmax(0, 1fr) auto;
+			gap: 24px;
+			align-items: end;
+			margin-bottom: 28px;
+		}
+
+		h1 {
+			margin: 0;
+			font-size: 34px;
+			line-height: 1.12;
+			font-weight: 760;
+		}
+
+		.subtitle {
+			max-width: 680px;
+			margin: 12px 0 0;
+			color: var(--muted);
+			font-size: 15px;
+			line-height: 1.7;
+		}
+
+		.badge {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			min-height: 34px;
+			padding: 0 13px;
+			border: 1px solid var(--line);
+			border-radius: 999px;
+			background: var(--panel);
+			color: var(--accent-dark);
+			font-size: 13px;
+			font-weight: 700;
+			white-space: nowrap;
+		}
+
+		.stats {
+			display: grid;
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+			gap: 14px;
+			margin-bottom: 18px;
+		}
+
+		.stat {
+			padding: 18px;
+			border: 1px solid var(--line);
+			border-radius: 8px;
+			background: var(--panel);
+			box-shadow: var(--shadow);
+		}
+
+		.stat strong {
+			display: block;
+			font-size: 26px;
+			line-height: 1;
+			font-weight: 760;
+		}
+
+		.stat span {
+			display: block;
+			margin-top: 9px;
+			color: var(--muted);
+			font-size: 13px;
+		}
+
+		.grid {
+			display: grid;
+			grid-template-columns: 1.2fr 0.8fr;
+			gap: 18px;
+			align-items: start;
+		}
+
+		.panel {
+			border: 1px solid var(--line);
+			border-radius: 8px;
+			background: var(--panel);
+			box-shadow: var(--shadow);
+			overflow: hidden;
+		}
+
+		.panel h2 {
+			margin: 0;
+			padding: 18px 20px;
+			border-bottom: 1px solid var(--line);
+			font-size: 17px;
+		}
+
+		.table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+
+		.table th,
+		.table td {
+			padding: 13px 20px;
+			border-bottom: 1px solid var(--line);
+			text-align: left;
+			font-size: 14px;
+		}
+
+		.table th {
+			color: var(--muted);
+			font-size: 12px;
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+
+		.table tr:last-child td {
+			border-bottom: 0;
+		}
+
+		.path-list {
+			display: grid;
+			gap: 10px;
+			padding: 18px;
+		}
+
+		.path-item {
+			display: grid;
+			grid-template-columns: minmax(0, 1fr) auto;
+			gap: 10px;
+			align-items: center;
+			padding: 12px;
+			border: 1px solid var(--line);
+			border-radius: 8px;
+			background: var(--panel-soft);
+		}
+
+		code {
+			overflow-wrap: anywhere;
+			font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+			font-size: 12px;
+			color: #24323b;
+		}
+
+		button,
+		a.button {
+			min-height: 34px;
+			padding: 0 12px;
+			border: 1px solid var(--accent);
+			border-radius: 7px;
+			background: var(--accent);
+			color: #fff;
+			font: inherit;
+			font-size: 13px;
+			font-weight: 700;
+			text-decoration: none;
+			cursor: pointer;
+		}
+
+		button:hover,
+		a.button:hover {
+			background: var(--accent-dark);
+			border-color: var(--accent-dark);
+		}
+
+		.note {
+			padding: 18px 20px 20px;
+			color: var(--muted);
+			font-size: 14px;
+			line-height: 1.75;
+		}
+
+		footer {
+			margin-top: 24px;
+			color: var(--muted);
+			font-size: 12px;
+			text-align: center;
+		}
+
+		@media (max-width: 760px) {
+			main {
+				width: min(100% - 22px, 1120px);
+				padding-top: 32px;
+			}
+
+			header,
+			.grid {
+				grid-template-columns: 1fr;
+			}
+
+			.stats {
+				grid-template-columns: repeat(2, minmax(0, 1fr));
+			}
+
+			h1 {
+				font-size: 28px;
+			}
+		}
+	</style>
+</head>
+<body>
+	<main>
+		<header>
+			<div>
+				<h1>WinriseF Image Hub</h1>
+				<p class="subtitle">This static EdgeOne Pages site serves image assets for the blog. Paths are stable and can be used directly by prefixing the asset domain.</p>
+			</div>
+			<div class="badge">Static image CDN</div>
+		</header>
+
+		<section class="stats" aria-label="Asset statistics">
+			<div class="stat"><strong>55</strong><span>asset files</span></div>
+			<div class="stat"><strong>36.0 MB</strong><span>total asset size</span></div>
+			<div class="stat"><strong>3</strong><span>top-level folders</span></div>
+			<div class="stat"><strong>25 MB</strong><span>EdgeOne single-file target</span></div>
+		</section>
+
+		<div class="grid">
+			<section class="panel">
+				<h2>Directory Summary</h2>
+				<table class="table">
+					<thead>
+						<tr><th>Folder</th><th>Files</th><th>Size</th></tr>
+					</thead>
+					<tbody>
+						<tr><td><code>/blogs/</code></td><td>30</td><td>19.2 MB</td></tr>
+						<tr><td><code>/images/</code></td><td>21</td><td>8.2 MB</td></tr>
+						<tr><td><code>/world-clock/</code></td><td>4</td><td>9.6 MB</td></tr>
+					</tbody>
+				</table>
+			</section>
+
+			<section class="panel">
+				<h2>Usage</h2>
+				<div class="note">
+					Use the same paths as the old blog <code>public</code> directory. After binding the domain, <code>/images/avatar.png</code> becomes <code>https://img.winrsief.top/images/avatar.png</code>.
+				</div>
+			</section>
+		</div>
+
+		<section class="panel" style="margin-top: 18px;">
+			<h2>Sample URLs</h2>
+			<div class="path-list">
+				<div class="path-item"><code>/images/avatar.png</code><button data-copy="/images/avatar.png">Copy</button></div>
+				<div class="path-item"><code>/images/blog-default-cover.png</code><button data-copy="/images/blog-default-cover.png">Copy</button></div>
+				<div class="path-item"><code>/blogs/ai-agent-skills-introduction/cover.png</code><button data-copy="/blogs/ai-agent-skills-introduction/cover.png">Copy</button></div>
+				<div class="path-item"><code>/blogs/java21-virtual-threads/virtual-threads-overview.png</code><button data-copy="/blogs/java21-virtual-threads/virtual-threads-overview.png">Copy</button></div>
+				<div class="path-item"><code>/world-clock/earth-winter-8192.jpg</code><button data-copy="/world-clock/earth-winter-8192.jpg">Copy</button></div>
+			</div>
+		</section>
+
+		<footer>Generated for static deployment. Last updated: 2026-05-16.</footer>
+	</main>
+
+	<script>
+		const assetOrigin = window.location.origin;
+		document.querySelectorAll('[data-copy]').forEach((button) => {
+			button.addEventListener('click', async () => {
+				const url = assetOrigin + button.getAttribute('data-copy');
+				try {
+					await navigator.clipboard.writeText(url);
+					const text = button.textContent;
+					button.textContent = 'Copied';
+					window.setTimeout(() => { button.textContent = text; }, 1200);
+				} catch {
+					window.prompt('Copy URL', url);
+				}
+			});
+		});
+	</script>
+</body>
+</html>
