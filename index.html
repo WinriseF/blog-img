@@ -8,93 +8,206 @@
 	<style>
 		:root {
 			color-scheme: light;
-			--bg: #f5f7fb;
+			--bg: #f3f6f8;
+			--ink: #172129;
+			--muted: #667680;
 			--panel: #ffffff;
-			--panel-soft: #eef4f8;
-			--text: #182026;
-			--muted: #64727d;
-			--line: #d9e2e8;
-			--accent: #1f8a70;
-			--accent-dark: #146b58;
-			--shadow: 0 20px 50px rgba(18, 32, 44, 0.08);
+			--panel-soft: #f7fafb;
+			--line: #dce5ea;
+			--accent: #237b68;
+			--accent-strong: #145f50;
+			--warm: #d9953f;
+			--shadow: 0 18px 42px rgba(21, 39, 50, 0.08);
 		}
 
-		* {
-			box-sizing: border-box;
-		}
+		* { box-sizing: border-box; }
 
 		body {
 			margin: 0;
-			background: var(--bg);
-			color: var(--text);
+			background:
+				linear-gradient(180deg, rgba(255,255,255,0.78), rgba(243,246,248,0.92) 42%, #f3f6f8 100%),
+				radial-gradient(circle at 12% 8%, rgba(35,123,104,0.12), transparent 28%),
+				radial-gradient(circle at 88% 0%, rgba(217,149,63,0.16), transparent 24%);
+			color: var(--ink);
 			font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 			letter-spacing: 0;
 		}
 
+		a { color: inherit; }
+
 		main {
-			width: min(1120px, calc(100% - 32px));
+			width: min(1120px, calc(100% - 36px));
 			margin: 0 auto;
-			padding: 56px 0 44px;
+			padding: 28px 0 42px;
 		}
 
-		header {
-			display: grid;
-			grid-template-columns: minmax(0, 1fr) auto;
-			gap: 24px;
-			align-items: end;
-			margin-bottom: 28px;
+		.topbar {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			gap: 16px;
+			min-height: 48px;
+			margin-bottom: 34px;
 		}
 
-		h1 {
-			margin: 0;
-			font-size: 34px;
-			line-height: 1.12;
+		.brand {
+			display: flex;
+			align-items: center;
+			gap: 10px;
 			font-weight: 760;
 		}
 
-		.subtitle {
-			max-width: 680px;
-			margin: 12px 0 0;
-			color: var(--muted);
-			font-size: 15px;
-			line-height: 1.7;
-		}
-
-		.badge {
-			display: inline-flex;
-			align-items: center;
-			justify-content: center;
-			min-height: 34px;
-			padding: 0 13px;
-			border: 1px solid var(--line);
-			border-radius: 999px;
-			background: var(--panel);
-			color: var(--accent-dark);
-			font-size: 13px;
-			font-weight: 700;
-			white-space: nowrap;
-		}
-
-		.stats {
+		.mark {
 			display: grid;
-			grid-template-columns: repeat(4, minmax(0, 1fr));
-			gap: 14px;
+			place-items: center;
+			width: 34px;
+			height: 34px;
+			border: 1px solid rgba(35,123,104,0.25);
+			border-radius: 8px;
+			background: #fff;
+			color: var(--accent-strong);
+			box-shadow: 0 8px 22px rgba(21,39,50,0.06);
+		}
+
+		.nav-actions {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: flex-end;
+			gap: 10px;
+		}
+
+		.hero {
+			display: grid;
+			grid-template-columns: minmax(0, 1fr) 320px;
+			gap: 24px;
+			align-items: stretch;
 			margin-bottom: 18px;
 		}
 
-		.stat {
-			padding: 18px;
+		.hero-copy {
+			padding: 34px;
+			border: 1px solid var(--line);
+			border-radius: 8px;
+			background: rgba(255,255,255,0.84);
+			box-shadow: var(--shadow);
+			backdrop-filter: blur(12px);
+		}
+
+		h1 {
+			max-width: 720px;
+			margin: 0;
+			font-size: clamp(32px, 5vw, 56px);
+			line-height: 1.02;
+			font-weight: 800;
+		}
+
+		.subtitle {
+			max-width: 720px;
+			margin: 18px 0 0;
+			color: var(--muted);
+			font-size: 15px;
+			line-height: 1.75;
+		}
+
+		.hero-actions {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 10px;
+			margin-top: 24px;
+		}
+
+		.status-card {
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+			padding: 24px;
 			border: 1px solid var(--line);
 			border-radius: 8px;
 			background: var(--panel);
 			box-shadow: var(--shadow);
 		}
 
+		.status-label {
+			color: var(--muted);
+			font-size: 13px;
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+
+		.status-value {
+			margin-top: 12px;
+			font-size: 32px;
+			line-height: 1;
+			font-weight: 800;
+		}
+
+		.status-note {
+			margin-top: 12px;
+			color: var(--muted);
+			font-size: 13px;
+			line-height: 1.6;
+		}
+
+		.button,
+		button {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			min-height: 38px;
+			padding: 0 14px;
+			border: 1px solid var(--line);
+			border-radius: 7px;
+			background: #fff;
+			color: var(--ink);
+			font: inherit;
+			font-size: 13px;
+			font-weight: 740;
+			text-decoration: none;
+			cursor: pointer;
+			transition: transform 140ms ease, border-color 140ms ease, background 140ms ease, color 140ms ease;
+		}
+
+		.button:hover,
+		button:hover {
+			transform: translateY(-1px);
+			border-color: rgba(35,123,104,0.45);
+		}
+
+		.button.primary {
+			border-color: var(--accent);
+			background: var(--accent);
+			color: #fff;
+		}
+
+		.button.primary:hover {
+			background: var(--accent-strong);
+			border-color: var(--accent-strong);
+		}
+
+		.stats {
+			display: grid;
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+			gap: 14px;
+			margin: 18px 0;
+		}
+
+		.stat,
+		.panel {
+			border: 1px solid var(--line);
+			border-radius: 8px;
+			background: var(--panel);
+			box-shadow: var(--shadow);
+		}
+
+		.stat {
+			padding: 18px;
+		}
+
 		.stat strong {
 			display: block;
-			font-size: 26px;
+			font-size: 28px;
 			line-height: 1;
-			font-weight: 760;
+			font-weight: 800;
 		}
 
 		.stat span {
@@ -104,20 +217,14 @@
 			font-size: 13px;
 		}
 
-		.grid {
+		.content-grid {
 			display: grid;
-			grid-template-columns: 1.2fr 0.8fr;
+			grid-template-columns: 1.08fr 0.92fr;
 			gap: 18px;
 			align-items: start;
 		}
 
-		.panel {
-			border: 1px solid var(--line);
-			border-radius: 8px;
-			background: var(--panel);
-			box-shadow: var(--shadow);
-			overflow: hidden;
-		}
+		.panel { overflow: hidden; }
 
 		.panel h2 {
 			margin: 0;
@@ -133,7 +240,7 @@
 
 		.table th,
 		.table td {
-			padding: 13px 20px;
+			padding: 14px 20px;
 			border-bottom: 1px solid var(--line);
 			text-align: left;
 			font-size: 14px;
@@ -142,13 +249,11 @@
 		.table th {
 			color: var(--muted);
 			font-size: 12px;
-			font-weight: 700;
+			font-weight: 760;
 			text-transform: uppercase;
 		}
 
-		.table tr:last-child td {
-			border-bottom: 0;
-		}
+		.table tr:last-child td { border-bottom: 0; }
 
 		.path-list {
 			display: grid;
@@ -167,39 +272,18 @@
 			background: var(--panel-soft);
 		}
 
-		code {
-			overflow-wrap: anywhere;
-			font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-			font-size: 12px;
-			color: #24323b;
-		}
-
-		button,
-		a.button {
-			min-height: 34px;
-			padding: 0 12px;
-			border: 1px solid var(--accent);
-			border-radius: 7px;
-			background: var(--accent);
-			color: #fff;
-			font: inherit;
-			font-size: 13px;
-			font-weight: 700;
-			text-decoration: none;
-			cursor: pointer;
-		}
-
-		button:hover,
-		a.button:hover {
-			background: var(--accent-dark);
-			border-color: var(--accent-dark);
-		}
-
 		.note {
 			padding: 18px 20px 20px;
 			color: var(--muted);
 			font-size: 14px;
 			line-height: 1.75;
+		}
+
+		code {
+			overflow-wrap: anywhere;
+			font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+			font-size: 12px;
+			color: #24323b;
 		}
 
 		footer {
@@ -209,51 +293,61 @@
 			text-align: center;
 		}
 
-		@media (max-width: 760px) {
-			main {
-				width: min(100% - 22px, 1120px);
-				padding-top: 32px;
-			}
-
-			header,
-			.grid {
-				grid-template-columns: 1fr;
-			}
-
-			.stats {
-				grid-template-columns: repeat(2, minmax(0, 1fr));
-			}
-
-			h1 {
-				font-size: 28px;
-			}
+		@media (max-width: 820px) {
+			main { width: min(100% - 24px, 1120px); padding-top: 18px; }
+			.topbar, .hero, .content-grid { grid-template-columns: 1fr; }
+			.topbar { align-items: flex-start; flex-direction: column; }
+			.nav-actions { justify-content: flex-start; }
+			.hero-copy { padding: 24px; }
+			.stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 		}
 	</style>
 </head>
 <body>
 	<main>
-		<header>
-			<div>
-				<h1>WinriseF Image Hub</h1>
-				<p class="subtitle">This static EdgeOne Pages site serves image assets for the blog. Paths are stable and can be used directly by prefixing the asset domain.</p>
+		<nav class="topbar" aria-label="Site navigation">
+			<a class="brand" href="https://winrisef.top" target="_blank" rel="noopener noreferrer" aria-label="Open WinriseF main site">
+				<span class="mark">W</span>
+				<span>WinriseF Assets</span>
+			</a>
+			<div class="nav-actions">
+				<a class="button primary" href="https://winrisef.top" target="_blank" rel="noopener noreferrer">Open Main Site</a>
+				<a class="button" href="https://winrisef.top/blog" target="_blank" rel="noopener noreferrer">Blog</a>
+				<a class="button" href="https://github.com/WinriseF" target="_blank" rel="noopener noreferrer">GitHub</a>
 			</div>
-			<div class="badge">Static image CDN</div>
-		</header>
+		</nav>
+
+		<section class="hero">
+			<div class="hero-copy">
+				<h1>Static image hub for WinriseF.</h1>
+				<p class="subtitle">A dedicated EdgeOne Pages deployment for blog covers, article images, project icons, photo wall assets, and world-clock textures. Keep the main site package small while preserving stable public paths.</p>
+				<div class="hero-actions">
+					<a class="button primary" href="https://winrisef.top" target="_blank" rel="noopener noreferrer">Visit winrisef.top</a>
+					<button data-copy="/images/avatar.png">Copy avatar URL</button>
+				</div>
+			</div>
+			<aside class="status-card" aria-label="Deployment status">
+				<div>
+					<div class="status-label">Deployment mode</div>
+					<div class="status-value">Static</div>
+					<p class="status-note">No build step, no server function, no runtime storage. Git pushes redeploy the file tree as-is.</p>
+				</div>
+				<div class="status-note"><code>https://img.winrsief.top/{path}</code></div>
+			</aside>
+		</section>
 
 		<section class="stats" aria-label="Asset statistics">
 			<div class="stat"><strong>55</strong><span>asset files</span></div>
 			<div class="stat"><strong>36.0 MB</strong><span>total asset size</span></div>
 			<div class="stat"><strong>3</strong><span>top-level folders</span></div>
-			<div class="stat"><strong>25 MB</strong><span>EdgeOne single-file target</span></div>
+			<div class="stat"><strong>25 MB</strong><span>single-file target</span></div>
 		</section>
 
-		<div class="grid">
+		<div class="content-grid">
 			<section class="panel">
 				<h2>Directory Summary</h2>
 				<table class="table">
-					<thead>
-						<tr><th>Folder</th><th>Files</th><th>Size</th></tr>
-					</thead>
+					<thead><tr><th>Folder</th><th>Files</th><th>Size</th></tr></thead>
 					<tbody>
 						<tr><td><code>/blogs/</code></td><td>30</td><td>19.2 MB</td></tr>
 						<tr><td><code>/images/</code></td><td>21</td><td>8.2 MB</td></tr>
@@ -265,7 +359,7 @@
 			<section class="panel">
 				<h2>Usage</h2>
 				<div class="note">
-					Use the same paths as the old blog <code>public</code> directory. After binding the domain, <code>/images/avatar.png</code> becomes <code>https://img.winrsief.top/images/avatar.png</code>.
+					Use the same paths as the old blog <code>public</code> directory. For example, <code>/blogs/post/cover.png</code> is served as <code>https://img.winrsief.top/blogs/post/cover.png</code>. The main site is <a href="https://winrisef.top" target="_blank" rel="noopener noreferrer">winrisef.top</a>.
 				</div>
 			</section>
 		</div>
@@ -281,7 +375,7 @@
 			</div>
 		</section>
 
-		<footer>Generated for static deployment. Last updated: 2026-05-16.</footer>
+		<footer>Static image hub for <a href="https://winrisef.top" target="_blank" rel="noopener noreferrer">winrisef.top</a>. Last updated: 2026-05-16.</footer>
 	</main>
 
 	<script>
