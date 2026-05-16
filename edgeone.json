@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/world-clock/*",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}
