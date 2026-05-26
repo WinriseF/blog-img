@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-05-26 02:12:05 CST
+> 更新时间：2026-05-27 02:47:20 CST
+
+---
+
+## 2026-05-26（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 后背发凉！Kimi 突发大面积封号，真相居然是？风控大地震深夜引爆AI圈，... | [▶](https://www.bilibili.com/video/BV127VK6wE7u) |
+| 3493082576193678 | 阶跃AI上线Step-3.7-Flash模型，昆仑万维发布SkyClaw-... | [▶](https://www.bilibili.com/video/BV1TEVK6aEbg) |
+| 285286947 | SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计... | [▶](https://www.bilibili.com/video/BV1e8VF6fEX4) |
+| 3537104715909319 | 2026年5月26日信息差 | [▶](https://www.bilibili.com/video/BV1jRVA6gEML) |
 
 ---
 
