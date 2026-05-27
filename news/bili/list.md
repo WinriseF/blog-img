@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-05-27 02:47:20 CST
+> 更新时间：2026-05-28 02:41:47 CST
+
+---
+
+## 2026-05-27（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | MiniMax预热M3模型，GPT5.5霸榜DeepSWE | 5月28日... | [▶](https://www.bilibili.com/video/BV1kRG26NExg) |
+| 3706929260006322 | 头皮发麻！豆包月活3亿只是伪装？字节700亿砸出AI奇点，算力已被挖空，同... | [▶](https://www.bilibili.com/video/BV1nVG26PEYk) |
+| 285286947 | 小米宣布 MiMo-V2.5 系列模型永久降价，优化 Token Plan... | [▶](https://www.bilibili.com/video/BV1uQGC66EEB) |
 
 ---
 
