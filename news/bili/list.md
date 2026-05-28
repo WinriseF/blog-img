@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-05-28 02:41:47 CST
+> 更新时间：2026-05-29 03:16:43 CST
+
+---
+
+## 2026-05-28（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | Codex下架旧模型，为新模型铺路，面壁开源PiloDeck Agent ... | [▶](https://www.bilibili.com/video/BV1CeVH6iEyC) |
+| 3537104715909319 | 2026年5月28日信息差 | [▶](https://www.bilibili.com/video/BV1KMVp6VEuv) |
+| 3706929260006322 | 180天断供倒计时！Anthropic命悬一线？遥控器竟在马斯克手里，真相... | [▶](https://www.bilibili.com/video/BV1a5VH6JEE7) |
+| 67079745 | 我们可能是最后一代，会用电脑的人了 | [▶](https://www.bilibili.com/video/BV1grVp6DEbX) |
+| 285286947 | OpenAI Foundation 宣布投入 2.5 亿美元应对 AI 经... | [▶](https://www.bilibili.com/video/BV1jQGQ6kEJe) |
 
 ---
 
