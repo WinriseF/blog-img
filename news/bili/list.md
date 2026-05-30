@@ -1,15 +1,29 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-05-30 03:15:02 CST
+> 更新时间：2026-05-31 01:45:21 CST
 
 ---
 
-## 2026-05-29（共 3 个视频）
+## 2026-05-30（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 发布 Codex 与 ChatGPT 大量更新【AI 早报 ... | [▶](https://www.bilibili.com/video/BV11pVM6iERu) |
+| 3537104715909319 | 2026年5月30日信息差 | [▶](https://www.bilibili.com/video/BV1MDVL6hEiU) |
+| 3706929260006322 | AI诸神之战终局！GPT-5.6秘密部署狙击Opus 4.8！Logan：... | [▶](https://www.bilibili.com/video/BV1TSVV6WEd6) |
+| 3493082576193678 | XAI开放Grok Build 0.1编程模型，Gemini Spark面... | [▶](https://www.bilibili.com/video/BV1bmVV6RE9o) |
+| 67079745 | 【科技补全104】开源阅读删库；火绒曝光金山毒霸捆绑安装；华为发表韬定律；... | [▶](https://www.bilibili.com/video/BV1gzV36pEaA) |
+
+---
+
+## 2026-05-29（共 5 个视频）
 
 | UP 主 | 视频 | 链接 |
 |-------|------|------|
 | 3537104715909319 | 2026年5月29日信息差 | [▶](https://www.bilibili.com/video/BV1LAVh6UEzA) |
 | 285286947 | 【橘鸦Juya】天工超级智能体实测：国内的 Agent 已经进化到这种地步了？ | [▶](https://www.bilibili.com/video/BV1WCVt69E7f) |
 | 3706929260006322 | Anthropic底裤露出，Opus 4.8自称Qwen引发蒸馏争议！Op... | [▶](https://www.bilibili.com/video/BV1biV86TEzG) |
+| 3493082576193678 | Anthropic宣布将在几周内推出新旗舰模型，阶跃星辰开源Step 3.... | [▶](https://www.bilibili.com/video/BV1gHVY65EF5) |
+| 285286947 | Anthropic 发布 Claude Opus 4.8 模型【AI 早报... | [▶](https://www.bilibili.com/video/BV1h1V46eEfL) |
 
 ---
 
