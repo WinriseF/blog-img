@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-01 01:43:48 CST
+> 更新时间：2026-06-02 04:47:57 CST
+
+---
+
+## 2026-06-01（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年6月1日信息差 | [▶](https://www.bilibili.com/video/BV1QHVZ6nEB5) |
+| 3493082576193678 | Minimax M3正式发布，英伟达集中发布多款产品 | 6月2日AI日报... | [▶](https://www.bilibili.com/video/BV1RjVZ69Epu) |
+| 285286947 | MiniMax 上线 MiniMax M3 模型，支持多模态输入和 1M ... | [▶](https://www.bilibili.com/video/BV1TwVR6qEd9) |
+| 3706929260006322 | MiniMax M3深夜引爆AI圈！Token Plan大地震，高价老用户... | [▶](https://www.bilibili.com/video/BV1xi5F6UEyH) |
 
 ---
 
