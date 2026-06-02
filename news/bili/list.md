@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-02 04:47:57 CST
+> 更新时间：2026-06-03 03:58:14 CST
+
+---
+
+## 2026-06-02（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | OpenAI风控大地震！全线强制登出，史诗级二验死循环展开全球大屠杀，看完... | [▶](https://www.bilibili.com/video/BV1MqVr6KEyZ) |
+| 3493082576193678 | Anthropic正式递交IPO，MiniMax开启退款通道 | 6月3日... | [▶](https://www.bilibili.com/video/BV1VhVr6gEj1) |
+| 285286947 | 阿里千问发布多模态智能体模型 Qwen3.7-Plus【AI 早报 202... | [▶](https://www.bilibili.com/video/BV1gpVv6HEU3) |
 
 ---
 
