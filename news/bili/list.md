@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-03 03:58:14 CST
+> 更新时间：2026-06-04 04:06:36 CST
+
+---
+
+## 2026-06-03（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年6月3日信息差 | [▶](https://www.bilibili.com/video/BV17G7X6oERo) |
+| 285286947 | OpenAI 为 Codex 推出六款业务插件与 Sites 和 Anno... | [▶](https://www.bilibili.com/video/BV19LV26REHK) |
+| 3706929260006322 | OpenAI突发服务崩溃疑似大赦天下，官方论坛惊现密集举报！DeepSee... | [▶](https://www.bilibili.com/video/BV1PH796zEjx) |
+| 3493082576193678 | 追赶Sonnet，微软首款模型MAI Thinking 1发布 | 6月4... | [▶](https://www.bilibili.com/video/BV1sk7X6KEun) |
 
 ---
 
