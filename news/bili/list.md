@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-05 02:36:21 CST
+> 更新时间：2026-06-06 02:27:36 CST
+
+---
+
+## 2026-06-05（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | OpenAI彻底清算！低价区廉价Team正价自用无差别全封禁！AI圈血流成... | [▶](https://www.bilibili.com/video/BV17v7k6cEPZ) |
+| 3537104715909319 | 2026年6月5日信息差 | [▶](https://www.bilibili.com/video/BV1EY7k6aEPg) |
+| 3493082576193678 | Claude新模型开启测试，取代Opus 4.8成为旗下最强模型 | 6月... | [▶](https://www.bilibili.com/video/BV1V17k6WEnJ) |
+| 285286947 | NVIDIA 正式发布并开源 Nemotron 3 Ultra 模型【AI... | [▶](https://www.bilibili.com/video/BV1aJ7z6yEad) |
 
 ---
 
