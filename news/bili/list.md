@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-06 02:27:36 CST
+> 更新时间：2026-06-07 01:44:37 CST
+
+---
+
+## 2026-06-06（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 67079745 | 【科技补全105】花钱卖盗版，Steam假入库是怎么骗人的？豆包将上线收费... | [▶](https://www.bilibili.com/video/BV18jEn6oE23) |
+| 285286947 | OpenAI 确认系统 Bug 导致部分账户被误封【AI 早报 2026-... | [▶](https://www.bilibili.com/video/BV1Wu7m6WEQ6) |
+| 3493082576193678 | GPT5.6新检查点来袭，Claude & Gemini虎视眈眈 | 6月... | [▶](https://www.bilibili.com/video/BV1i57D62Eew) |
 
 ---
 
