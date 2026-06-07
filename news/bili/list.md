@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-07 01:44:37 CST
+> 更新时间：2026-06-08 01:49:24 CST
+
+---
+
+## 2026-06-07（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Cohere 发布小型编程模型 BLS-Mini-Code-1.0 早期权... | [▶](https://www.bilibili.com/video/BV1AHEx6fETg) |
+| 3706929260006322 | OpenAI雪崩！芯片核心大将连夜叛逃Anthropic，奥特曼的棺材板快... | [▶](https://www.bilibili.com/video/BV1TfEt6GECi) |
+| 3493082576193678 | 放弃聊天对话！OpenAI拟对ChatGPT进行全面重建，整合Codex提... | [▶](https://www.bilibili.com/video/BV1isEb6WEGW) |
 
 ---
 
