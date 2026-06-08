@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-08 01:49:24 CST
+> 更新时间：2026-06-09 02:47:51 CST
+
+---
+
+## 2026-06-08（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Agnes AI 升级免费模型服务，今日将支持 1M 上下文【AI早报 2... | [▶](https://www.bilibili.com/video/BV1F9EK6KEgP) |
+| 3493082576193678 | 魔改GLM-5.1开源，全面超越GPT5.4和Opus4.6 | 6月9日... | [▶](https://www.bilibili.com/video/BV1sGEg6SEwP) |
+| 3706929260006322 | AI圈大地震！微信AI重磅泄露，ChatGPT已吓晕！MiniMax 涨价... | [▶](https://www.bilibili.com/video/BV1xKEg69Efx) |
 
 ---
 
