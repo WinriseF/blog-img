@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-09 02:47:51 CST
+> 更新时间：2026-06-10 02:34:01 CST
+
+---
+
+## 2026-06-09（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 大模型诸神之战！Mythos与GPT-5.6呼之欲出！剑拔弩张擦枪走火！硝... | [▶](https://www.bilibili.com/video/BV14eEm6cEJK) |
+| 67079745 | 救命！电脑里爬满了蟑螂怎么办？ | [▶](https://www.bilibili.com/video/BV1DhE76SEWD) |
+| 3493082576193678 | 五百万上下文窗口！SILXAI开源Quasar Preview模型 | 6... | [▶](https://www.bilibili.com/video/BV1m6E76CEJi) |
+| 3537104715909319 | 2026年6月9日信息差 | [▶](https://www.bilibili.com/video/BV1pEE26HEyw) |
+| 285286947 | 微信团队发布微信 AI 生态内测指引，提供两种小程序接入方式【AI 早报 ... | [▶](https://www.bilibili.com/video/BV1uDE56gETb) |
 
 ---
 
