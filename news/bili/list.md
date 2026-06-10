@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-10 02:34:01 CST
+> 更新时间：2026-06-11 03:13:00 CST
+
+---
+
+## 2026-06-10（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年6月10日信息差 | [▶](https://www.bilibili.com/video/BV15XER6cEks) |
+| 3706929260006322 | AI圈沸腾！狙击Mythos，智谱 GLM-5.2 或将发布引爆硅谷！达里... | [▶](https://www.bilibili.com/video/BV1KAE961EXY) |
+| 3493082576193678 | 智谱新模型GLM-5.2有待发布，Anthropic正式推出Claude ... | [▶](https://www.bilibili.com/video/BV1MAE961ETN) |
+| 285286947 | Anthropic 推出 Claude Fable 5 及 Claude ... | [▶](https://www.bilibili.com/video/BV1cQES64Euq) |
 
 ---
 
