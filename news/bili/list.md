@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-11 03:13:00 CST
+> 更新时间：2026-06-12 03:20:56 CST
+
+---
+
+## 2026-06-11（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 【橘鸦Juya】AI视频创作领域的 Codex 来了，普通人零基础也能生成... | [▶](https://www.bilibili.com/video/BV19rEq6yELS) |
+| 285286947 | Google 发布 DiffusionGemma 模型；小米发布编程工具 ... | [▶](https://www.bilibili.com/video/BV1M4Ee6tEgL) |
+| 3493082576193678 | OpenAI考虑大幅降低收费，Anthropic发布道歉公告 | 6月12... | [▶](https://www.bilibili.com/video/BV1MLEq6YE36) |
+| 3706929260006322 | AI圈大乱！MiniMax M3 即将开源；Anthropic 低头认错，... | [▶](https://www.bilibili.com/video/BV1RoEi6yEH5) |
 
 ---
 
