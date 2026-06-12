@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-12 03:20:56 CST
+> 更新时间：2026-06-13 02:28:34 CST
+
+---
+
+## 2026-06-12（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 为 Codex 用户提供重置速率限制机会并提供重置机会保存功... | [▶](https://www.bilibili.com/video/BV1BnEk6eE7x) |
+| 3493082576193678 | GLM5.2开启测试，表现优秀，值得期待 | 6月13日AI日报第425期 | [▶](https://www.bilibili.com/video/BV1DKE268Eao) |
+| 67079745 | 上班是为了早点赎身，别在草台班子里拼命，建议尽快用AI帮自己退休... | [▶](https://www.bilibili.com/video/BV1QLEC6dEa5) |
+| 3706929260006322 | AI圈核弹来袭！Kimi K2.7 Code 突然发布引爆宇宙！华为国产纯... | [▶](https://www.bilibili.com/video/BV1QnE16cEP7) |
 
 ---
 
