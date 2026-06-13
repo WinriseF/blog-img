@@ -1,5 +1,18 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-13 02:28:34 CST
+> 更新时间：2026-06-14 01:59:38 CST
+
+---
+
+## 2026-06-13（共 6 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 载入史册！智谱突然发布核弹 GLM-5.2 引爆AI圈，Anthropic... | [▶](https://www.bilibili.com/video/BV1YrJn6eE4R) |
+| 285286947 | 突发：Anthropic 因美国政府出口管制指令全面禁用 Fable 5 ... | [▶](https://www.bilibili.com/video/BV1fPJ76wEYA) |
+| 3493082576193678 | 突发：智谱全量开放GLM5.2 | AI快讯 | [▶](https://www.bilibili.com/video/BV1jeJE6hEwd) |
+| 67079745 | 【科技补全106】网易云、QQ音乐都被改造成了游戏外挂？Win11优化，响... | [▶](https://www.bilibili.com/video/BV1nsJn6LErf) |
+| 285286947 | 月之暗面发布并开源 Kimi K2.7 Code 模型；MiniMax 正... | [▶](https://www.bilibili.com/video/BV1oMJ76bE73) |
+| 3493082576193678 | OpenAI惨遭大规模调查，谷歌发布Gemini SQL 2 | 6月14... | [▶](https://www.bilibili.com/video/BV1xjJn6DEQh) |
 
 ---
 
