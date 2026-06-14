@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-14 01:59:38 CST
+> 更新时间：2026-06-15 02:00:37 CST
+
+---
+
+## 2026-06-14（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 悲哀！AI圈柏林墙已然筑起，大KYC时代即将来临！字节绞杀对手即将推出 S... | [▶](https://www.bilibili.com/video/BV1VTJP6XEZT) |
+| 285286947 | 智谱发布 GLM-5.2 模型，同步更新 ZCode 3.0.0 新用户可... | [▶](https://www.bilibili.com/video/BV1gRJs63EYX) |
+| 3493082576193678 | 价格仅1/2，暴打Claude Fable，OpenRouter推出Fus... | [▶](https://www.bilibili.com/video/BV1kqJP6AENd) |
 
 ---
 
