@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-15 02:00:37 CST
+> 更新时间：2026-06-16 04:08:08 CST
+
+---
+
+## 2026-06-15（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | Deepseek V4.1 & Qwen 3.8 Max有望近期发布 | ... | [▶](https://www.bilibili.com/video/BV1AmJG6tERh) |
+| 3706929260006322 | 最新消息：Gemini 3.5 Pro 与 DeepSeek-V4.1 | [▶](https://www.bilibili.com/video/BV1J9JG6WEqH) |
+| 285286947 | 里约热内卢市信息技术公司Rio 3.5模型被曝融合中国模型Nex与Qwen... | [▶](https://www.bilibili.com/video/BV1WfJu6pEb2) |
+| 3537104715909319 | 2026年6月15日信息差 | [▶](https://www.bilibili.com/video/BV1jEJG67E6K) |
 
 ---
 
