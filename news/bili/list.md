@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-16 04:08:08 CST
+> 更新时间：2026-06-17 04:00:00 CST
+
+---
+
+## 2026-06-16（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 头皮发麻！DeepSeek疑似暗中升级，今日神秘停摆44分钟，500亿融资... | [▶](https://www.bilibili.com/video/BV17hj36zEKb) |
+| 3493082576193678 | 中国 AI 最大单轮融资完成：报道称Deepseek 完成70亿美元融资 ... | [▶](https://www.bilibili.com/video/BV1dij36NEfn) |
+| 285286947 | Anthropic 暂停对第三方用途进行独立计费；字节跳动发布 Seeda... | [▶](https://www.bilibili.com/video/BV1k9jT6TEa1) |
 
 ---
 
