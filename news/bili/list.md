@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-17 04:00:00 CST
+> 更新时间：2026-06-18 02:43:20 CST
+
+---
+
+## 2026-06-17（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | SpaceX 宣布正式以600亿美元收购 Cursor；智谱正式发布 GL... | [▶](https://www.bilibili.com/video/BV12cjj6eEnW) |
+| 3706929260006322 | 重磅炸弹！Google新图像模型“速食拉面”即将来袭！纳米香蕉已成过去式！... | [▶](https://www.bilibili.com/video/BV1a3LR6EEAE) |
+| 3493082576193678 | 方舟Coding Plan上线GLM-5.2，Agent Plan同步上线... | [▶](https://www.bilibili.com/video/BV1ocLX6jEMJ) |
 
 ---
 
