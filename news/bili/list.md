@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-18 02:43:20 CST
+> 更新时间：2026-06-19 02:46:28 CST
+
+---
+
+## 2026-06-18（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | 起飞！GPT5.6泄露，Transformer核心大佬加入OpenAI |... | [▶](https://www.bilibili.com/video/BV15WjA6GEXc) |
+| 3537104715909319 | 2026年6月18日信息差 | [▶](https://www.bilibili.com/video/BV1GBja6sEzu) |
+| 3706929260006322 | DeepSeek 正式上线“识图模式”；阶跃星辰限免提供 Step Pla... | [▶](https://www.bilibili.com/video/BV1ewjP6LEz5) |
+| 285286947 | ChatGPT 发布全新设计的定时任务功能；Codex 发放双重重置【AI... | [▶](https://www.bilibili.com/video/BV1xXjF6REin) |
 
 ---
 
