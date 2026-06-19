@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-19 02:46:28 CST
+> 更新时间：2026-06-20 02:21:10 CST
+
+---
+
+## 2026-06-19（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年6月19日信息差 | [▶](https://www.bilibili.com/video/BV1ZJjz6SETQ) |
+| 285286947 | DeepSeek 正式上线识图模式；Codex 上线 Record & R... | [▶](https://www.bilibili.com/video/BV1fSjv6CEBv) |
+| 3493082576193678 | Anthropic表示即将重新开放Mythos/Fable5，美团新模型开... | [▶](https://www.bilibili.com/video/BV1phjB6WEzV) |
 
 ---
 
