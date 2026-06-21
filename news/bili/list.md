@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-21 01:59:22 CST
+> 更新时间：2026-06-22 02:09:39 CST
+
+---
+
+## 2026-06-21（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 正式宣战！OpenAI亮出底牌 GPT-5.6 前端能力或将大幅提升！千问... | [▶](https://www.bilibili.com/video/BV13qj867Ecy) |
+| 3537104715909319 | 2026年6月21日信息差 | [▶](https://www.bilibili.com/video/BV1ZCjb6WEcQ) |
+| 285286947 | 微信灰度测试 AI Agent「小微」【AI 早报 2026-06-21】 | [▶](https://www.bilibili.com/video/BV1dojW6uEn3) |
+| 3493082576193678 | GPT5.6发布概率急转直下，或因内部问题推迟发布 | 6月22日AI日报... | [▶](https://www.bilibili.com/video/BV1oTjh6dED2) |
 
 ---
 
