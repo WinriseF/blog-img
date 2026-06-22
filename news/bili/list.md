@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-22 02:09:39 CST
+> 更新时间：2026-06-23 03:57:37 CST
+
+---
+
+## 2026-06-22（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | Sonnet5曝光，智谱市值破万亿，阿里发布视频模型 | 6月23日AI日... | [▶](https://www.bilibili.com/video/BV15B7K6pE8Q) |
+| 285286947 | 《经济学人》报道：Mythos被称数小时内攻破NSA几乎所有机密系统【AI... | [▶](https://www.bilibili.com/video/BV1RM7A6LE1x) |
+| 3706929260006322 | AI圈突然窒息：字节亮刀 Seed 2.1 正在血洗前端榜！Anthrop... | [▶](https://www.bilibili.com/video/BV1Wj7K6qEzx) |
 
 ---
 
