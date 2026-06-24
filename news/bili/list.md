@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-24 02:22:35 CST
+> 更新时间：2026-06-25 02:19:57 CST
+
+---
+
+## 2026-06-24（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年6月24日信息差 | [▶](https://www.bilibili.com/video/BV1TGjo6JE62) |
+| 3706929260006322 | 六月飞雪！AI圈核冬天：GPT-5.6 推迟；Gemini 3.5 Pro... | [▶](https://www.bilibili.com/video/BV1YqjR6WEHi) |
+| 285286947 | 字节跳动发布多款AI模型，Anthropic 发布 Claude Tag ... | [▶](https://www.bilibili.com/video/BV1nijQ6tERx) |
 
 ---
 
