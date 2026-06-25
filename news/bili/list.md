@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-25 02:19:57 CST
+> 更新时间：2026-06-26 02:35:46 CST
+
+---
+
+## 2026-06-25（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 联合 Broadcom 推出自研 AI 芯片 Jalapeñ... | [▶](https://www.bilibili.com/video/BV1BW746pEBz) |
+| 3706929260006322 | AI圈大型灵异事件！OpenAI 疑似开错生死簿：Pro 用户一觉醒来额度... | [▶](https://www.bilibili.com/video/BV1k47Y6yEoj) |
+| 3537104715909319 | 2026年6月25日信息差 | [▶](https://www.bilibili.com/video/BV1oo7a6NEku) |
+| 3493082576193678 | Anthropic指控阿里实施业内最大规模“蒸馏攻击” | 6月26日AI... | [▶](https://www.bilibili.com/video/BV1vm7Y6cEPV) |
 
 ---
 
