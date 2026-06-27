@@ -1,12 +1,25 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-27 02:20:47 CST
+> 更新时间：2026-06-28 01:58:29 CST
 
 ---
 
-## 2026-06-26（共 1 个视频）
+## 2026-06-27（共 5 个视频）
 
 | UP 主 | 视频 | 链接 |
 |-------|------|------|
+| 3706929260006322 | AI圈大地震！DeepSeek 开源核弹：V4 没换代，但被 DeepSe... | [▶](https://www.bilibili.com/video/BV17B7H6BEpu) |
+| 3537104715909319 | 2026年6月26日信息差 | [▶](https://www.bilibili.com/video/BV1Jn7L6dEUm) |
+| 67079745 | 【科技补全108】Wallpaper Engine永久关闭应用壁纸；开屏广... | [▶](https://www.bilibili.com/video/BV1QS7H6FExs) |
+| 285286947 | OpenAI 开启 GPT-5.6 系列模型有限预览；Mythos 5 获... | [▶](https://www.bilibili.com/video/BV1n17E6KEmb) |
+| 3493082576193678 | Deepseek开源DeepSpec，OpenAI发布GPT5.6系列模型... | [▶](https://www.bilibili.com/video/BV1xP7p6DEUG) |
+
+---
+
+## 2026-06-26（共 2 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | Token 服务终于要被收编了！信通院牵头，22家单位集结，AI计费江湖迎... | [▶](https://www.bilibili.com/video/BV1fE7V6EEaw) |
 | 3493082576193678 | 谷歌重组AI团队，改变AI战略，追赶Claude | 6月27日AI日报第... | [▶](https://www.bilibili.com/video/BV1oK756jEr9) |
 
 ---
