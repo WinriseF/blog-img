@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-06-29 01:45:08 CST
+> 更新时间：2026-06-30 02:31:32 CST
+
+---
+
+## 2026-06-29（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI Codex 宣布彻查用量异常消耗，已重置全员额度【AI 早报... | [▶](https://www.bilibili.com/video/BV198TL6pE75) |
+| 3493082576193678 | Deepseek宣布7月中旬发布V4正式版，同步更新定价策略 | 6月30... | [▶](https://www.bilibili.com/video/BV19DKQ6DEJ9) |
+| 3706929260006322 | AI圈热议！DeepSeek官方突然预告 V4 正式版引爆银河系！但高峰价... | [▶](https://www.bilibili.com/video/BV1AtKQ6qEWx) |
+| 3537104715909319 | 2026年6月29日信息差 | [▶](https://www.bilibili.com/video/BV1vnKD6pErd) |
 
 ---
 
