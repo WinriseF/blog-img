@@ -1,13 +1,25 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-01 02:34:24 CST
+> 更新时间：2026-07-02 02:32:30 CST
 
 ---
 
-## 2026-06-30（共 2 个视频）
+## 2026-07-01（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | Anthropic承认存在后台，检测中国用户 | 7月2日AI日报第443期 | [▶](https://www.bilibili.com/video/BV1CmTe69EH7) |
+| 3537104715909319 | 2026年7月1日信息差 | [▶](https://www.bilibili.com/video/BV1ocTq6QES5) |
+| 3706929260006322 | Fable 5 全球复活引爆核弹！惊曝 Kimi K3 七月推出，原始帖文... | [▶](https://www.bilibili.com/video/BV1oyTq6pExX) |
+| 285286947 | Anthropic 发布 Claude Sonnet 5 模型，宣布次日恢... | [▶](https://www.bilibili.com/video/BV1zTTa6VER6) |
+
+---
+
+## 2026-06-30（共 3 个视频）
 
 | UP 主 | 视频 | 链接 |
 |-------|------|------|
 | 3493082576193678 | Claude Fable将与身份验证绑定，验证通过即开放模型 | 7月1日... | [▶](https://www.bilibili.com/video/BV1KfKf68EJz) |
+| 285286947 | DeepSeek 预告 V4 系列模型正式版7月中旬上线；美团发布并开源 ... | [▶](https://www.bilibili.com/video/BV1N5Ko6QEJg) |
 | 3706929260006322 | AI圈裂开！Google香蕉闪电疑似明日引爆，华为92B开源血洗战场，Cl... | [▶](https://www.bilibili.com/video/BV1f3TF6nEoa) |
 
 ---
