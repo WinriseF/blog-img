@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-02 02:32:30 CST
+> 更新时间：2026-07-03 02:16:01 CST
+
+---
+
+## 2026-07-02（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Anthropic 正式恢复 Claude Fable 5 访问【AI 早... | [▶](https://www.bilibili.com/video/BV1DcT66JExB) |
+| 3706929260006322 | 龙王归来！Gemini 或新版 Pro Flash 齐上阵挑战 Fable... | [▶](https://www.bilibili.com/video/BV1KaTE6SEit) |
+| 3537104715909319 | 2026年7月2日信息差 | [▶](https://www.bilibili.com/video/BV1e5TE6cEt7) |
+| 3493082576193678 | OpenAI提议向特朗普政府出让5%股权，Gemini新模型检查点测试 |... | [▶](https://www.bilibili.com/video/BV1tsTj61Ex5) |
 
 ---
 
