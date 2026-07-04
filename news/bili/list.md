@@ -1,12 +1,24 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-04 02:00:47 CST
+> 更新时间：2026-07-05 01:38:04 CST
 
 ---
 
-## 2026-07-03（共 3 个视频）
+## 2026-07-04（共 4 个视频）
 
 | UP 主 | 视频 | 链接 |
 |-------|------|------|
+| 3493082576193678 | 腾讯云TokenHub将上线Deepseek模型，GPT5.6有望近期开放... | [▶](https://www.bilibili.com/video/BV1HrMw6aEvZ) |
+| 67079745 | 【科技补全109】索尼停产实体游戏；Claude Code内置间谍代码；手... | [▶](https://www.bilibili.com/video/BV1bsMw6VE3r) |
+| 3706929260006322 | 大的要来了，GPT-5.6 三兄弟或于下周上线！ | [▶](https://www.bilibili.com/video/BV1fyMw6bEPC) |
+| 285286947 | Mistral AI 发布开源形式化验证模型 Leanstra 1.5【A... | [▶](https://www.bilibili.com/video/BV1hYTf6gEQY) |
+
+---
+
+## 2026-07-03（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Claude Code Artifacts 功能面向 Pro 和 Max ... | [▶](https://www.bilibili.com/video/BV147TW6eErb) |
 | 3493082576193678 | Meta预告下一代模型，追平GPT-5.5，实现逆袭？ | 7月3日AI日... | [▶](https://www.bilibili.com/video/BV1LgTt6REm4) |
 | 3537104715909319 | 2026年7月3日信息差 | [▶](https://www.bilibili.com/video/BV1NuT46qEPZ) |
 | 3706929260006322 | 人类影视灭亡倒计时！阿里腾讯百度同时出手，可灵AI狂吞190亿融资；阿里内... | [▶](https://www.bilibili.com/video/BV1yuT46iEi7) |
