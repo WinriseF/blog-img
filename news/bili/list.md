@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-05 01:38:04 CST
+> 更新时间：2026-07-06 01:38:38 CST
+
+---
+
+## 2026-07-05（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | Gemini上下文将有突破，智谱入选全球数字经济灯塔案例 | 7月5日AI... | [▶](https://www.bilibili.com/video/BV12vTC6XEdZ) |
+| 3537104715909319 | 2026年7月5日信息差 | [▶](https://www.bilibili.com/video/BV1X2Ty6NE1W) |
+| 285286947 | Anthropic上调Claude API速率限制并简化层级【AI 早报 ... | [▶](https://www.bilibili.com/video/BV1zeMT6rEMG) |
 
 ---
 
