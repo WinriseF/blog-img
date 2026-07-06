@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-06 01:38:38 CST
+> 更新时间：2026-07-07 02:29:31 CST
+
+---
+
+## 2026-07-06（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | AI圈核弹连发！腾讯混元 Hy3 正式版开源血洗全球；OpenAI 员工深... | [▶](https://www.bilibili.com/video/BV1FWTQ6PECA) |
+| 67079745 | 我用手机做了一个“流氓软件”，结果越用越沉迷... | [▶](https://www.bilibili.com/video/BV1PoTQ6rEuj) |
+| 3537104715909319 | 2026年7月6日信息差 | [▶](https://www.bilibili.com/video/BV1YmTd6PEgZ) |
+| 3493082576193678 | 300B下最强模型！腾讯发布并开源HY3正式版 | 7月6日AI日报第448期 | [▶](https://www.bilibili.com/video/BV1ZbTQ6fE5q) |
+| 285286947 | 报道称 Anthropic 计划在欧洲和澳大利亚大规模租赁数据中心  【A... | [▶](https://www.bilibili.com/video/BV1eMTU62EJh) |
 
 ---
 
