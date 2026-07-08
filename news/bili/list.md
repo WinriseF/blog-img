@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-08 02:31:15 CST
+> 更新时间：2026-07-09 02:03:04 CST
+
+---
+
+## 2026-07-08（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 血流成河！GPT-5.6 刚宣战就被 Grok 4.5 堵截，MiniMa... | [▶](https://www.bilibili.com/video/BV1ADMg6tEeZ) |
+| 285286947 | Anthropic延长Claude Fable 5促销体验至7月12日【A... | [▶](https://www.bilibili.com/video/BV1PhMe6bEXc) |
+| 3493082576193678 | 工信部发布Claude Code安全后门隐患风险提示，GPT&Grok明日... | [▶](https://www.bilibili.com/video/BV1QjM366EfH) |
+| 67079745 | 现在的烂梗真的越来越多了... | [▶](https://www.bilibili.com/video/BV1n2M46NEtF) |
+| 285286947 | 突发：OpenAI 官宣 GPT-5.6 当地时间本周四公开发布，美国商务... | [▶](https://www.bilibili.com/video/BV1yeMi6NEBa) |
 
 ---
 
