@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-09 02:03:04 CST
+> 更新时间：2026-07-10 02:19:28 CST
+
+---
+
+## 2026-07-09（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 大决战！GPT 6 全线突围截杀 Fable 5.1 ！AI接管世界倒计时... | [▶](https://www.bilibili.com/video/BV1aQMn6qEEe) |
+| 3493082576193678 | Seedance2.5将开放，Claude新模型短暂出现 | 7月9日AI... | [▶](https://www.bilibili.com/video/BV1jrME6iEpL) |
+| 285286947 | SpaceXAI 正式发布 Grok 4.5 模型【AI 早报 2026-... | [▶](https://www.bilibili.com/video/BV1nPML6NEsH) |
+| 3537104715909319 | 2026年7月9日信息差 | [▶](https://www.bilibili.com/video/BV1rYMn6SEPk) |
 
 ---
 
