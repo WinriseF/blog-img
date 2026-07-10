@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-10 02:19:28 CST
+> 更新时间：2026-07-11 02:09:40 CST
+
+---
+
+## 2026-07-10（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 正式向公众开放 GPT-5.6 模型系列；Meta 发布 M... | [▶](https://www.bilibili.com/video/BV1YiNj6nE7n) |
+| 3537104715909319 | 2026年7月10日信息差 | [▶](https://www.bilibili.com/video/BV1gaNH6bEF4) |
+| 3493082576193678 | 快手推出编程模型KAT-Coder-V2.5模型，阶跃新品发布会定档7月1... | [▶](https://www.bilibili.com/video/BV1mjNn6SEyW) |
 
 ---
 
