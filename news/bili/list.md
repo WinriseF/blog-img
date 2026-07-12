@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-12 01:32:22 CST
+> 更新时间：2026-07-13 01:34:44 CST
+
+---
+
+## 2026-07-12（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3493082576193678 | OpenAI分享Claude Code接入GPT 5.6 Sol方法，阶跃... | [▶](https://www.bilibili.com/video/BV1B7Ng6uEJq) |
+| 3706929260006322 | 连夜辟谣！OpenAI官方澄清GPT-5.6双倍计费风波，一份配置文件引发... | [▶](https://www.bilibili.com/video/BV1ctNu6CE4i) |
+| 3537104715909319 | 2026年7月12日信息差 | [▶](https://www.bilibili.com/video/BV1drN36rEzm) |
+| 285286947 | 智谱创始人唐杰发布内部信 宣布启动Touch High计划【AI 早报 2... | [▶](https://www.bilibili.com/video/BV1ejNK6WE4Y) |
 
 ---
 
