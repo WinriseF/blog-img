@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-13 01:34:44 CST
+> 更新时间：2026-07-14 02:18:14 CST
+
+---
+
+## 2026-07-13（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Anthropic 延期 Fable 5 促销访问；Codex 临时取消 ... | [▶](https://www.bilibili.com/video/BV1E8Nr6aE84) |
+| 3493082576193678 | GPT-5.6-Sol降级至272K，商汤开源SenseNova Visi... | [▶](https://www.bilibili.com/video/BV1U6Ny6HEVV) |
+| 3706929260006322 | 官方承认！Codex 额度黑洞曝光，372k 当场翻车！智谱突然拔刀！血洗... | [▶](https://www.bilibili.com/video/BV1fzNm6UEkV) |
 
 ---
 
