@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-14 02:18:14 CST
+> 更新时间：2026-07-15 01:42:55 CST
+
+---
+
+## 2026-07-14（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年7月14日信息差 | [▶](https://www.bilibili.com/video/BV1KXNt6uEJt) |
+| 3493082576193678 | Kimi K3即将发布，采用全新架构，参数量有望达2.5T | 7月14日... | [▶](https://www.bilibili.com/video/BV1maNb6rEXq) |
+| 285286947 | Codex 周活用户达 700 万，官方发放重置次数庆祝【AI 早报 20... | [▶](https://www.bilibili.com/video/BV1qeNX6tE8V) |
+| 3706929260006322 | AI圈炸裂！Grok Build 隐私门正式爆炸！国产新模型Hy4、K3、... | [▶](https://www.bilibili.com/video/BV1wFNb6eEHw) |
 
 ---
 
