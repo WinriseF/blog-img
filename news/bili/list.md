@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-15 01:42:55 CST
+> 更新时间：2026-07-16 01:48:55 CST
+
+---
+
+## 2026-07-15（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年7月15日信息差 | [▶](https://www.bilibili.com/video/BV1FWNz6ZEk4) |
+| 3706929260006322 | AI圈混战持续！Claude Opus 5 门缝泄露，字节豆包 Seed-... | [▶](https://www.bilibili.com/video/BV1adNi6uE3C) |
+| 285286947 | OpenAI Codex 活跃用户破800万，再次重置用量【AI 早报 2... | [▶](https://www.bilibili.com/video/BV1eNNe6vEDV) |
+| 3493082576193678 | Anthropic计划发布Opus5，平替Fable5填补空白 | 7月1... | [▶](https://www.bilibili.com/video/BV1wjNq6REfU) |
 
 ---
 
