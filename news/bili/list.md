@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-18 01:39:00 CST
+> 更新时间：2026-07-19 01:34:04 CST
+
+---
+
+## 2026-07-18（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 67079745 | 【科技补全111】一个月570个漏洞，AI开始给Windows上压力；真我... | [▶](https://www.bilibili.com/video/BV14LKP6gEGJ) |
+| 285286947 | InternLM 发布 Intern-S2-Preview-397B 多模... | [▶](https://www.bilibili.com/video/BV17KKc6SE2J) |
+| 3706929260006322 | AI圈一夜失控！Fable 5正式下凡！Codex限额清零！Grok 2T... | [▶](https://www.bilibili.com/video/BV1RZKA6QEBg) |
+| 3537104715909319 | 2026年7月18日信息差 | [▶](https://www.bilibili.com/video/BV1krKA6YEvy) |
+| 3493082576193678 | Anthropic光速滑跪，Fable继续保留Max订阅中 | 7月18日... | [▶](https://www.bilibili.com/video/BV1wAKA68Eee) |
 
 ---
 
