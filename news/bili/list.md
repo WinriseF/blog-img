@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-19 01:34:04 CST
+> 更新时间：2026-07-20 01:33:07 CST
+
+---
+
+## 2026-07-19（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Claude Fable 5 将正式纳入 Claude Max 和 Tea... | [▶](https://www.bilibili.com/video/BV18KKi6iENM) |
+| 3537104715909319 | 2026年7月19日信息差 | [▶](https://www.bilibili.com/video/BV1gQKB6CEc7) |
+| 3706929260006322 | AI圈大地震！Qwen 3.8 Max Preview 横空出世！2.4T... | [▶](https://www.bilibili.com/video/BV1t7K66yEif) |
+| 3493082576193678 | Qwen 3.8 Max登场！Fable之下最强模型 | 7月19日AI日... | [▶](https://www.bilibili.com/video/BV1ymKz6NE4y) |
 
 ---
 
