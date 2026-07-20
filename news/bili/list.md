@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-20 01:33:07 CST
+> 更新时间：2026-07-21 02:30:52 CST
+
+---
+
+## 2026-07-20（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 阿里巴巴千问上线 Qwen3.8-Max-Preview；月之暗面 Kim... | [▶](https://www.bilibili.com/video/BV16FKy6kEwq) |
+| 3493082576193678 | Deepseek计划携V4正式版发布首款Harness产品，Qwen发布语... | [▶](https://www.bilibili.com/video/BV1GAKm6TETk) |
+| 3706929260006322 | 危！DeepSeek V4 正式版深陷时空裂缝！鸽王登基还是正在憋终极核弹... | [▶](https://www.bilibili.com/video/BV1VFKm6gE4p) |
+| 285286947 | 【橘鸦Juya】电脑装了一堆AI工具，有没有 All In One 方案啊！ | [▶](https://www.bilibili.com/video/BV1j9K265ELY) |
 
 ---
 
