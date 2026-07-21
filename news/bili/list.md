@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-21 02:30:52 CST
+> 更新时间：2026-07-22 01:55:17 CST
+
+---
+
+## 2026-07-21（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 东升西落！GLM新模型获智谱暗示史诗级核爆，谷歌灰度Gemini新模型气笑... | [▶](https://www.bilibili.com/video/BV18fKh6REPK) |
+| 285286947 | DeepSeek V4 正式版未按计划上线，或将与官方 Harness 产... | [▶](https://www.bilibili.com/video/BV1HmKt6iEQu) |
+| 3537104715909319 | 2026年7月21日信息差 | [▶](https://www.bilibili.com/video/BV1tcKa6WEf4) |
+| 3493082576193678 | 持平Deepseek V4 Pro，韩国AI公司发布自研模型Motif |... | [▶](https://www.bilibili.com/video/BV1xgKa67EpQ) |
 
 ---
 
