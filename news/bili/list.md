@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-22 01:55:17 CST
+> 更新时间：2026-07-23 01:50:37 CST
+
+---
+
+## 2026-07-22（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 宇宙寂灭！GPT-6 即将降临，碳基文明终结倒计时！| AI日报0722 | [▶](https://www.bilibili.com/video/BV192gk6MEwx) |
+| 3493082576193678 | OpenAI报告重大安全事故，Deepseek突发联网搜索故障 | 7月2... | [▶](https://www.bilibili.com/video/BV1ahgC6TERK) |
+| 285286947 | Google 发布 Gemini 3.6 Flash 与 Gemini 3... | [▶](https://www.bilibili.com/video/BV1pzgz6LEXM) |
 
 ---
 
