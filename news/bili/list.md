@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-23 01:50:37 CST
+> 更新时间：2026-07-24 01:57:16 CST
+
+---
+
+## 2026-07-23（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 67079745 | 世界上最恶心人的广告，就藏在你的手机系统里 | [▶](https://www.bilibili.com/video/BV1XcgQ6fE2T) |
+| 3706929260006322 | 龙虎齐啸！Claude Opus 5 被曝最快明日破关，Codex 亦预告... | [▶](https://www.bilibili.com/video/BV1i9gD6vEfr) |
+| 285286947 | Upstage 发布开源模型 Solar Open 2【AI 早报 202... | [▶](https://www.bilibili.com/video/BV1q4gm6xEpA) |
 
 ---
 
