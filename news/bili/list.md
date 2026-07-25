@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-25 02:01:32 CST
+> 更新时间：2026-07-26 01:34:33 CST
+
+---
+
+## 2026-07-25（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | AI 叛变在即？OpenAI 全线塌方！ChatGPT、Codex、API... | [▶](https://www.bilibili.com/video/BV19Y3g6SEdM) |
+| 285286947 | Anthropic 发布 Claude Opus 5 模型【AI 早报 2... | [▶](https://www.bilibili.com/video/BV1aG3T6qEcm) |
+| 3493082576193678 | 一半的价格，性能超越Fable，Claude Opus 5正式发布 | 7... | [▶](https://www.bilibili.com/video/BV1kF336wExx) |
 
 ---
 
