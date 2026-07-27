@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-27 01:33:07 CST
+> 更新时间：2026-07-28 02:08:05 CST
+
+---
+
+## 2026-07-27（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 宣布 ChatGPT Work 活跃用户数超越 Codex【... | [▶](https://www.bilibili.com/video/BV16egd6XERw) |
+| 3537104715909319 | 2026年7月26日信息差 | [▶](https://www.bilibili.com/video/BV1FDgX6LEWo) |
+| 3706929260006322 | 龙王归来！Meta终于亮刀！新开源模型与Harness即将轰炸！| AI日... | [▶](https://www.bilibili.com/video/BV1HF3F6YEVM) |
+| 3493082576193678 | Gemini4有望年底发布，Flash将保持高速迭代 | 7月27日AI日... | [▶](https://www.bilibili.com/video/BV1Ss3F6LEzp) |
 
 ---
 
