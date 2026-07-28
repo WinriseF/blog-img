@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-28 02:08:05 CST
+> 更新时间：2026-07-29 01:56:01 CST
+
+---
+
+## 2026-07-28（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | AI圈彻底炸穿！DeepSeek Harness 将启动绝密封测！智谱跃跃... | [▶](https://www.bilibili.com/video/BV1Bj3B6KEn7) |
+| 285286947 | 月之暗面发布 Kimi K3 模型权重及完整技术报告【AI 早报 2026... | [▶](https://www.bilibili.com/video/BV1k63e6AEXj) |
+| 3493082576193678 | 微软自研模型打破Mythos神话，网安模型MAI-Cyber发布 | 7月... | [▶](https://www.bilibili.com/video/BV1qJ3B6PEeJ) |
+| 3537104715909319 | 2026年7月28日信息差 | [▶](https://www.bilibili.com/video/BV1qR3i6hEgT) |
 
 ---
 
