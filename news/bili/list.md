@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-29 01:56:01 CST
+> 更新时间：2026-07-30 01:49:47 CST
+
+---
+
+## 2026-07-29（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | OpenAI紧急抢救Sol：效率暴涨、不再烧穿额度，双重重置直接续命！| ... | [▶](https://www.bilibili.com/video/BV1U4316rEyk) |
+| 3537104715909319 | 2026年7月29日信息差 | [▶](https://www.bilibili.com/video/BV1eZ316nEtQ) |
+| 285286947 | OpenAI 上线 GPT Live Transcribe 和 GPT T... | [▶](https://www.bilibili.com/video/BV1eh3k6GERM) |
+| 3493082576193678 | GPT新模型欲开启测试，Codex修复消耗过高问题 | 7月29日AI日报... | [▶](https://www.bilibili.com/video/BV1rx326wERr) |
 
 ---
 
