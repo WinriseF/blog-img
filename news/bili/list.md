@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-30 01:49:47 CST
+> 更新时间：2026-07-31 01:58:06 CST
+
+---
+
+## 2026-07-30（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | 七月将尽深度求索方改口，再次谜语OpenAI称大的要来 | AI日报0730 | [▶](https://www.bilibili.com/video/BV15M386zEie) |
+| 3493082576193678 | Deepseek即将采用峰谷定价策略，OpenAI暗示明天重置 | 7月3... | [▶](https://www.bilibili.com/video/BV1Lp346aEi6) |
+| 285286947 | OpenAI 上线 GPT-5.6 Sol 效率改进并重置 Codex 用... | [▶](https://www.bilibili.com/video/BV1Qw3W6EE8i) |
 
 ---
 
