@@ -1,5 +1,18 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-07-31 01:58:06 CST
+> 更新时间：2026-08-01 02:09:00 CST
+
+---
+
+## 2026-07-31（共 6 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 【橘鸦】把电脑装进手机里：跑 AI Agent 必备的远程操控方案！ | [▶](https://www.bilibili.com/video/BV14o3x6JE95) |
+| 3706929260006322 | AI圈悬疑片！Gemini 3.5 Pro Arena幽灵现身，GLM疑似... | [▶](https://www.bilibili.com/video/BV1BkGP6VE8g) |
+| 3537104715909319 | 2026年7月31日信息差 | [▶](https://www.bilibili.com/video/BV1Z4GN6VET4) |
+| 285286947 | 【突发】DeepSeek-V4-Flash 正式版 API 上线公测！ | [▶](https://www.bilibili.com/video/BV1gqGA6ZEuJ) |
+| 3493082576193678 | 突发：Deepseek V4 Flash正式版开放公测 | [▶](https://www.bilibili.com/video/BV1hqGA6ZEiL) |
+| 3493082576193678 | 7月最后一天王炸接踵而至，Seedance 2.5正式发布，V4 Flas... | [▶](https://www.bilibili.com/video/BV1s3GN6WEfL) |
 
 ---
 
