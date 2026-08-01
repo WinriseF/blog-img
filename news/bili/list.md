@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-01 02:09:00 CST
+> 更新时间：2026-08-02 01:32:00 CST
+
+---
+
+## 2026-08-01（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发... | [▶](https://www.bilibili.com/video/BV1RnGg6QE34) |
+| 3706929260006322 | 人类价值崩塌！OpenAI 透露下代模型 Astra 冲击十项猜想！科研不... | [▶](https://www.bilibili.com/video/BV1b7GV6HEzT) |
+| 3493082576193678 | OpenAI公布新模型“Astra”并重置使用限制 | 8月1日AI日报第... | [▶](https://www.bilibili.com/video/BV1kmGg6PEXf) |
 
 ---
 
