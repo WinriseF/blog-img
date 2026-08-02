@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-02 01:32:00 CST
+> 更新时间：2026-08-03 01:33:25 CST
+
+---
+
+## 2026-08-02（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3537104715909319 | 2026年8月2日信息差 | [▶](https://www.bilibili.com/video/BV1B43d6HERn) |
+| 3493082576193678 | 因部署Kimi模型，美国众议院调查DoorDash | 8月2日AI日报第... | [▶](https://www.bilibili.com/video/BV1Qz396vEme) |
+| 285286947 | OpenAI 发文公布其下一代主要模型“Astra”内部版本的十项数学与理... | [▶](https://www.bilibili.com/video/BV1XD3D68ETR) |
+| 3706929260006322 | 帝国雪崩？Google尘封往事深夜引爆硅谷，比ChatGPT早一年的幽灵项... | [▶](https://www.bilibili.com/video/BV1y33969ETz) |
 
 ---
 
