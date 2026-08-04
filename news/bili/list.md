@@ -1,3 +1,17 @@
+<!-- bili-intel:article-index:start -->
+## 2026-08-03（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | MiniMax H3 模型权重预计将于今日发布【AI 早报 2026-08-03】 | [▶](https://www.bilibili.com/video/BV1Ay3f6qE7F) |
+| 3706929260006322 | 狙击DeepSeek！Qwen3.8-Max 正式来袭！GLM-5.3 紧随其后！AI圈进入肉搏战！｜ AI日报0803 | [▶](https://www.bilibili.com/video/BV1vyMX6aEVj) |
+| 3493082576193678 | 千问发布正式版Qwen-3.8-Max，智谱GLM5.3短暂出现 ｜ 8月3日AI日报第476期 | [▶](https://www.bilibili.com/video/BV1HaMX66Ew6) |
+| 3537104715909319 | 2026年8月3日信息差 | [▶](https://www.bilibili.com/video/BV18VMX6XE32) |
+
+- [AI模型进入智能体竞争时代：Qwen3.8 Max与多模态开源模型掀起新一轮较量](2026-08-03.md)
+
+<!-- bili-intel:article-index:end -->
+
 # B 站 UP 内容精选列表
 > 更新时间：2026-08-03 01:33:25 CST
 
