@@ -1,12 +1,16 @@
 <!-- bili-intel:article-index:start -->
-## 2026-08-03（共 4 个视频）
+## 2026-08-04（共 4 个视频）
 
 | UP 主 | 视频 | 链接 |
 |-------|------|------|
-| 285286947 | MiniMax H3 模型权重预计将于今日发布【AI 早报 2026-08-03】 | [▶](https://www.bilibili.com/video/BV1Ay3f6qE7F) |
-| 3706929260006322 | 狙击DeepSeek！Qwen3.8-Max 正式来袭！GLM-5.3 紧随其后！AI圈进入肉搏战！｜ AI日报0803 | [▶](https://www.bilibili.com/video/BV1vyMX6aEVj) |
-| 3493082576193678 | 千问发布正式版Qwen-3.8-Max，智谱GLM5.3短暂出现 ｜ 8月3日AI日报第476期 | [▶](https://www.bilibili.com/video/BV1HaMX66Ew6) |
-| 3537104715909319 | 2026年8月3日信息差 | [▶](https://www.bilibili.com/video/BV18VMX6XE32) |
+| 285286947 | 阿里千问发布 Qwen3.8-Max 正式版并计划下周发布模型权重【AI 早报 2026-08-04】 | [▶](https://www.bilibili.com/video/BV1H7MZ6xEXD) |
+| 3706929260006322 | 冲出电脑！OpenAI Codex 负责人 Tibo 预言引爆硅谷！Codex 下一阶段将史诗进化！｜ AI日报0804 | [▶](https://www.bilibili.com/video/BV1YMuP6dEM6) |
+| 3493082576193678 | OpenAI预告下一代模型与技术，Gemini 3.5 Pro将于近期发布 ｜ 8月4日AI日报第477期 | [▶](https://www.bilibili.com/video/BV1qLuc6WEtt) |
+| 3537104715909319 | 2026年8月4日信息差 | [▶](https://www.bilibili.com/video/BV1ERuA6vEd2) |
+
+- [从聊天框到云端工位：AI 编程进入长任务时代](2026-08-04.md)
+
+## 2026-08-03
 
 - [AI模型进入智能体竞争时代：Qwen3.8 Max与多模态开源模型掀起新一轮较量](2026-08-03.md)
 
