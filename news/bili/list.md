@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-05 09:33:30 CST
+> 更新时间：2026-08-06 07:05:29 CST
+
+---
+
+## 2026-08-06（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 【橘鸦】Cherry Studio V2 体验：从聊天客户端到 Agent 工作台，这次升级打几分？ | [▶](https://www.bilibili.com/video/BV1pRMy6XEJn) |
+| 285286947 | SpaceX 宣布联合 NVIDIA 打造太空 AI 计算卫星 Starmind AI1【AI 早报 2026-08-05】 | [▶](https://www.bilibili.com/video/BV1zeMr6zEfS) |
+| 3706929260006322 | 5000亿重磅炸弹！DeepSeek深夜引爆创投圈！马斯克将25年SpaceX机密全盘倒出，Grok 5引发硅谷大爆炸！｜ AI日报0805 | [▶](https://www.bilibili.com/video/BV1WQMy6REbG) |
+| 3493082576193678 | AISI公布Claude和GPT严重失控行为，Kimi即将停用多款模型 ｜ 8月5日AI日报第478期 | [▶](https://www.bilibili.com/video/BV1BTM16yEw4) |
+| 3537104715909319 | 2026年8月5日信息差 | [▶](https://www.bilibili.com/video/BV1WgMy6XErY) |
 
 ---
 
@@ -792,5 +804,3 @@
 | 3493082576193678 | Gemini频繁扩充付费额度，3.5Flash上下文窗口翻倍 | 5月24... | [▶](https://www.bilibili.com/video/BV1RRGB6AEab) |
 | 67079745 | 【科技补全103】AI提交的BUG太多，Linux快忙不过来了；为什么超过... | [▶](https://www.bilibili.com/video/BV1dAGi6FEDK) |
 | 3537104715909319 | 2026年5月23日信息差 | [▶](https://www.bilibili.com/video/BV1u6Gq69E8i) |
-
----
