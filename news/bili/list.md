@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-07 10:04:21 CST
+> 更新时间：2026-08-08 06:21:27 CST
+
+---
+
+## 2026-08-08（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | ChatGPT向所有用户开放无限文本对话次数（但有防滥用）并上线GPT-5.6模型更新【AI 早报 2026-08-07】 | [▶](https://www.bilibili.com/video/BV1aKus6mE4E) |
+| 3706929260006322 | 生死战！Gemini 3.7 Flash 或将吹响反攻号角！MiniMax Code 狙击 DeepSeek Harness 杀入终端！｜ AI日报0807 | [▶](https://www.bilibili.com/video/BV1qPub6vE5v) |
+| 3493082576193678 | 字节正在训练一款超5T参数模型，Seedance 2.5开放API服务 ｜ 8月7日AI日报第480期 | [▶](https://www.bilibili.com/video/BV1VYut6oETT) |
+| 3537104715909319 | 2026年8月7日信息差 | [▶](https://www.bilibili.com/video/BV1C5u86mEAt) |
 
 ---
 
