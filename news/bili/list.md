@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-08 06:21:27 CST
+> 更新时间：2026-08-09 06:12:58 CST
+
+---
+
+## 2026-08-09（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 称其即将推出的 Astra 模型展现重大网络安全能力，正加强安全控制并将推迟发布【AI 早报 2026-08-08】 | [▶](https://www.bilibili.com/video/BV1stuK6DEMS) |
+| 3706929260006322 | 惊为天人！Grok 发布 image 2.0 模型，与 GPT 展开巅峰对决！ ｜ AI日报0808 | [▶](https://www.bilibili.com/video/BV1UauG6GEfv) |
+| 67079745 | 【科技补全114】两分钟跳出来几十次，手机广告有多无法无天？Win11承诺优化，8G内存也能流畅使用；DeepSeek API 将大幅涨价； | [▶](https://www.bilibili.com/video/BV1UQu36zEAH) |
+| 3493082576193678 | 数学家联合指控OpenAI学术不端，Astra模型研究成果存在问题 ｜ 8月8日AI日报第481期 | [▶](https://www.bilibili.com/video/BV1hCuu6TEWn) |
 
 ---
 
