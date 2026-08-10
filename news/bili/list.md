@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-09 06:12:58 CST
+> 更新时间：2026-08-10 10:40:21 CST
+
+---
+
+## 2026-08-10（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 重置全部 Codex 付费用户用量限制，并将再次重置【AI 早报 2026-08-09】 | [▶](https://www.bilibili.com/video/BV1Kyuj6SEh1) |
+| 3706929260006322 | 末日将至！OpenAI 史诗巨物 Doug 模型定档，人类危在旦夕！｜ AI日报0809 | [▶](https://www.bilibili.com/video/BV1JQu264EaE) |
+| 3493082576193678 | 谷歌Deepmind CEO哈萨比斯本意离职，Deepmind不再独立 ｜ 8月9日AI日报第482期 | [▶](https://www.bilibili.com/video/BV1Haum6FEEY) |
 
 ---
 
