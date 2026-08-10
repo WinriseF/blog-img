@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-10 10:40:21 CST
+> 更新时间：2026-08-11 06:22:15 CST
+
+---
+
+## 2026-08-11（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenRouter 上的 GLM 5.2 模型出现大幅折扣定价【AI 早报 2026-08-10】 | [▶](https://www.bilibili.com/video/BV1UPuX6XEVi) |
+| 3706929260006322 | 急！DeepSeek V4 Pro 正式版深陷时空裂缝！鸽王登基还是正在憋终极核弹？｜ AI日报0810 | [▶](https://www.bilibili.com/video/BV1nNud6SEnn) |
+| 3493082576193678 | 通义千问开源Qwen-MM-Plugins，宇树科技正式开启申购 ｜ 8月10日AI日报第483期 | [▶](https://www.bilibili.com/video/BV11zud6sE34) |
+| 3537104715909319 | 2026年8月10日信息差 | [▶](https://www.bilibili.com/video/BV1f3uZ6pEDy) |
 
 ---
 
