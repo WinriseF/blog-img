@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-11 06:22:15 CST
+> 更新时间：2026-08-12 11:14:38 CST
+
+---
+
+## 2026-08-12（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Meta 发布开放权重模型 Muse Glimmer 并预告将发布 Muse Spark 1.2 权重  【AI 早报 2026-08-11】 | [▶](https://www.bilibili.com/video/BV14huY6YESE) |
+| 3706929260006322 | 硝烟弥漫！智谱加入重置大军！Cursor 暗示新模型将至！商汤6.8杀入前线，AI战彻底打响！｜ AI日报0811 | [▶](https://www.bilibili.com/video/BV1moui6GE1o) |
+| 3493082576193678 | Deepseek Harness团队注册公众号，智谱ZCode重要升级 ｜ 8月11日AI日报第484期 | [▶](https://www.bilibili.com/video/BV16Luq6FEW4) |
 
 ---
 
