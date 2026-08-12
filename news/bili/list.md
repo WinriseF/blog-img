@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-12 11:14:38 CST
+> 更新时间：2026-08-13 06:26:25 CST
+
+---
+
+## 2026-08-13（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 快讯：DeepSeek V4 Pro 正式版上线！ | [▶](https://www.bilibili.com/video/BV1EKgj6zEbZ) |
+| 285286947 | ChatGPT 桌面应用推出 Linux 版；SpaceXAI 发布 Grok Bot ；IndexTTS-2.5 模型发布【AI 早报 2026-08-12】 | [▶](https://www.bilibili.com/video/BV1xvuy68EhB) |
+| 3706929260006322 | Tibo 彻底疯狂！已预告次日惊喜，全球程序员直接眩晕！豆包向大学生发福利，大学生：根本把持不住！｜ AI日报0812 | [▶](https://www.bilibili.com/video/BV1MNgL6HEfE) |
+| 3493082576193678 | 腾讯宣布即将发布HY4，WorkBuddy用户突破性增长 ｜ 8月12日AI日报第485期 | [▶](https://www.bilibili.com/video/BV1Xfg56sEE2) |
+| 3537104715909319 | 2026年8月12日信息差 | [▶](https://www.bilibili.com/video/BV1Xog56dE5A) |
 
 ---
 
