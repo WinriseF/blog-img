@@ -1,5 +1,19 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-14 15:01:06 CST
+> 更新时间：2026-08-15 06:07:57 CST
+
+---
+
+## 2026-08-15（共 7 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 突发：智谱发布 GLM-5.3 模型！ | [▶](https://www.bilibili.com/video/BV1NUgw6yE8M) |
+| 285286947 | Gemini 3.7 Flash 发布；DeepSeek Harness 发布；DeepSeek API 涨价【AI 早报 2026-08-14】 | [▶](https://www.bilibili.com/video/BV1SegF6LEZg) |
+| 3706929260006322 | 见证历史！智谱GLM-5.3杀疯了！直面 Fable，祭出“开源之盾，纳斯达克彻夜未眠……｜ AI日报0814 | [▶](https://www.bilibili.com/video/BV1jUgA6YEM1) |
+| 67079745 | 你管这玩意儿叫输入法？ | [▶](https://www.bilibili.com/video/BV1wjgP65EfQ) |
+| 3493082576193678 | 关于我是怎么做到全年不断更的 | [▶](https://www.bilibili.com/video/BV1wLgw6TEk5) |
+| 3493082576193678 | 智谱发布GLM-5.3模型并为订阅用户重置额度 ｜ 8月14日AI日报第487期 | [▶](https://www.bilibili.com/video/BV1LYgP6YEZT) |
+| 3537104715909319 | 8月14日信息差 | [▶](https://www.bilibili.com/video/BV1K9gK6oEPY) |
 
 ---
 
