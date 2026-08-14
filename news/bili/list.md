@@ -1,5 +1,18 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-13 06:26:25 CST
+> 更新时间：2026-08-14 15:01:06 CST
+
+---
+
+## 2026-08-14（共 6 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek-V4-Pro 正式版上线 API；SpaceXAI 发布 Grok 4.6 ；Codex 重置使用额度【AI 早报 2026-08-13】 | [▶](https://www.bilibili.com/video/BV1n8gJ6DEKJ) |
+| 3706929260006322 | 快讯：DeepSeek 发布 DeepSeek Harness 开发者预览版：一切皆插件！ | [▶](https://www.bilibili.com/video/BV13vgs6QErS) |
+| 3706929260006322 | DeepSeek 官宣发布 DeepSeek-V4-Pro 正式版，确认涨价并引入峰谷定价！｜ AI日报0813 | [▶](https://www.bilibili.com/video/BV1nGgp6fEUy) |
+| 3493082576193678 | Deepseek Harness正式推出并启用API峰谷定价策略 | [▶](https://www.bilibili.com/video/BV1hogW6mEZ1) |
+| 3493082576193678 | 千问预告Qwen-3.8-27B模型，明日晚间开源发布 ｜ 8月13日AI日报第486期 | [▶](https://www.bilibili.com/video/BV1YYgp6LEVn) |
+| 3537104715909319 | 2026年8月13日信息差 | [▶](https://www.bilibili.com/video/BV1Lbgs6dEcv) |
 
 ---
 
