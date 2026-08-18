@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-15 06:07:57 CST
+> 更新时间：2026-08-18 20:16:04 CST
+
+---
+
+## 2026-08-18（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI Codex 正式支持 1M 上下文；DeepSeek API 正式涨价【AI 早报 2026-08-17】 | [▶](https://www.bilibili.com/video/BV1P3bh6ME9o) |
+| 3706929260006322 | 豆包工作模式迎来核弹进化，微软CEO纳德拉当场眩晕瘫坐！｜ AI日报0817 | [▶](https://www.bilibili.com/video/BV1yobY65EDQ) |
+| 67079745 | 我用AI几分钟就做了一个网站，大家快来试试！ | [▶](https://www.bilibili.com/video/BV1kdgP62Efw) |
+| 3493082576193678 | CodeX确认将引入新模型"Astra"，Deepseek新定价正式生效 ｜ 8月17日AI日报第490期 | [▶](https://www.bilibili.com/video/BV1oobe6AEPW) |
 
 ---
 
