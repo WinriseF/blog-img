@@ -1,0 +1,56 @@
+name: Compress images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'blogs/**/*.png'
+      - 'blogs/**/*.jpg'
+      - 'blogs/**/*.jpeg'
+      - 'blogs/**/*.webp'
+      - 'images/**/*.png'
+      - 'images/**/*.jpg'
+      - 'images/**/*.jpeg'
+      - 'images/**/*.webp'
+  workflow_dispatch:
+    inputs:
+      min_size_kb:
+        description: Compress unrecorded images at or above this size in KB.
+        required: false
+        default: '100'
+        type: string
+  schedule:
+    - cron: '23 2 * * 0'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tinypng-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Compress unrecorded images
+        env:
+          TINIFY_API_KEY: ${{ secrets.TINIFY_API_KEY }}
+        run: node scripts/compress-images.mjs --min-size-kb=${{ inputs.min_size_kb || '100' }}
+
+      - name: Commit compressed images and manifest
+        run: |
+          git add --all .tinypng-processed.txt blogs images
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore(images): compress unrecorded assets [skip ci]'
+          git push

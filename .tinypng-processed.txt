@@ -1,0 +1,3 @@
+# TinyPNG processing manifest. One line per final file version.
+# path<TAB>sha256<TAB>bytes<TAB>status<TAB>processed_at
+# status is compressed, unchanged, or skipped-size.
