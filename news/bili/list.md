@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-18 20:16:04 CST
+> 更新时间：2026-08-20 19:44:24 CST
+
+---
+
+## 2026-08-19（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 锁定 4.25GW 数据中心容量，Claude Code 上线 /design，Cursor 推出 Origin【AI 早报 2026-08-18 | [▶](https://www.bilibili.com/video/BV1CmbB6dEMK) |
+| 3706929260006322 | 终端争夺战打响！MiniMax 代码工具杀入终端突袭 DSH！命令行旧时代崩塌！｜ AI日报0818 | [▶](https://www.bilibili.com/video/BV1x58u6mEZi) |
+| 3493082576193678 | 插件实现性能提升？Deepseek J-Space插件引发社区关注 ｜ 8月18日AI日报第491期 | [▶](https://www.bilibili.com/video/BV1Kw8g6mExv) |
+| 3537104715909319 | 上市前夕，宇树科技发布“超人” | [▶](https://www.bilibili.com/video/BV1CK8G6QEyQ) |
 
 ---
 
