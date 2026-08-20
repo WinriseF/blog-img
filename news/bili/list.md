@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-20 19:44:24 CST
+> 更新时间：2026-08-20 20:17:08 CST
+
+---
+
+## 2026-08-20（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 宣布放缓前沿模型训练；GLM-5.3 上线 API；Claude Code 周限提升50%活动延长【AI 早报 2026-08-19】 | [▶](https://www.bilibili.com/video/BV1SW876yE91) |
+| 3706929260006322 | AI巅峰战！Fable 5.1悄悄灰度测试，奥特曼再次瘫坐！DeepSeek V4 Pro 灰测风格重出江湖！｜ AI日报0819 | [▶](https://www.bilibili.com/video/BV1ew8n64EbW) |
+| 3493082576193678 | 智谱正式开放GLM5.3模型，OpenAI推迟新模型训练 ｜ 8月19日AI日报第492期 | [▶](https://www.bilibili.com/video/BV1Ar876PEkX) |
+| 3537104715909319 | 2026年8月19日信息差 | [▶](https://www.bilibili.com/video/BV1yz8J6GEy1) |
 
 ---
 
