@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-20 20:17:08 CST
+> 更新时间：2026-08-21 10:14:18 CST
+
+---
+
+## 2026-08-21（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI Codex 团队称已上线多层防护，降低误删用户文件风险【AI 早报 2026-08-20】 | [▶](https://www.bilibili.com/video/BV1gDbZ6xEjL) |
+| 3706929260006322 | AI圈核弹泄露！DeepSeek 视觉模型 v4-flash-vision-exp 现身 DSH 代码！Hy4 突发上架元宝！｜ AI日报0820 | [▶](https://www.bilibili.com/video/BV1nX8c6DESC) |
+| 3493082576193678 | OpenCode推出一系列免费优惠活动，Meta模型免费用，GPT-5.6半价 ｜ 8月20日AI日报第493期 | [▶](https://www.bilibili.com/video/BV1Wmbf67EXT) |
+| 3537104715909319 | 2026年8月20日信息差 | [▶](https://www.bilibili.com/video/BV1Jw8P6pEAp) |
 
 ---
 
