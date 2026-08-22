@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-21 10:14:18 CST
+> 更新时间：2026-08-23 07:03:21 CST
+
+---
+
+## 2026-08-22（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 突发：DeepSeek API 平台上线多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp ！ | [▶](https://www.bilibili.com/video/BV1aq8q6BE1N) |
+| 285286947 | OpenRouter 与 OpenCode 上线免费 stealth 模型 Ox Alpha【AI 早报 2026-08-21】 | [▶](https://www.bilibili.com/video/BV1Aq8K6TEyk) |
+| 3706929260006322 | AI圈核弹雨来袭！V4多模态模型上线API！GLM-5.3-Flash 或将来袭！Kimi数字员工Mira彻底觉醒！｜ AI日报0821 | [▶](https://www.bilibili.com/video/BV1d18i6GEoY) |
+| 3493082576193678 | Deepseek V4 Flash Vision EXP上线API，OX-Alpha匿名模型开启测试 ｜ 8月21日AI日报第494期 | [▶](https://www.bilibili.com/video/BV1ve8q6zEwK) |
 
 ---
 
