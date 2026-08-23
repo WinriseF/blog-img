@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-23 07:03:21 CST
+> 更新时间：2026-08-24 06:01:30 CST
+
+---
+
+## 2026-08-23（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek-V4-Flash-Vision-Exp 上线；Codex 重置【AI 早报 2026-08-22】 | [▶](https://www.bilibili.com/video/BV1jJ8y6AEn2) |
+| 3706929260006322 | 大的要来了？Google DeepMind 全员谜语人！彻查！Tibo 发话或为缓存问题导致用量崩塌，将深入调查！｜ AI日报0822 | [▶](https://www.bilibili.com/video/BV1FB8m6mEm6) |
+| 67079745 | 【科技补全116】一年增长28亿，GitHub扛不住大面积崩溃；《GTA6》实机大量泄露，疑似源自印度工作室；解锁满血版DeepSeek Harness； | [▶](https://www.bilibili.com/video/BV1Ch8m6HEdr) |
+| 3493082576193678 | OpenAI宣布下调GPT-5.6 Sol模型价格，包含API与订阅 ｜ 8月22日AI日报第495期 | [▶](https://www.bilibili.com/video/BV1mt8m6WE5t) |
+| 3537104715909319 | 韩国提议中日合办2046世界杯 | [▶](https://www.bilibili.com/video/BV15t826vE1d) |
 
 ---
 
