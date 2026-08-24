@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-24 06:01:30 CST
+> 更新时间：2026-08-25 06:10:47 CST
+
+---
+
+## 2026-08-24（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek 调整 API 计费：周末全天统一按低谷价收费【AI 早报 2026-08-23】 | [▶](https://www.bilibili.com/video/BV1R88x6kEvF) |
+| 3706929260006322 | AI圈海啸！智谱 glm-5.3-turbo 核弹或将来袭！Tibo 认错将重置用量并修复异常消耗问题！｜ AI日报0823 | [▶](https://www.bilibili.com/video/BV1Cz8b6PEDS) |
+| 3493082576193678 | OpenAI查明额度消耗异常原因，明日修复并重置额度 ｜ 8月23日AI日报第496期 | [▶](https://www.bilibili.com/video/BV1yz8b6PEX7) |
+| 3537104715909319 | 女装拆成“半片”卖！拍2片才能有一件完整衣服！ | [▶](https://www.bilibili.com/video/BV1zu8h6aELx) |
 
 ---
 
