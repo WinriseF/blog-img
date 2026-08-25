@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-25 06:10:47 CST
+> 更新时间：2026-08-26 06:11:04 CST
+
+---
+
+## 2026-08-25（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI Codex 重置付费用户用量并将上线用量异常修复【AI 早报 2026-08-24】 | [▶](https://www.bilibili.com/video/BV17Z8Y6qE5z) |
+| 3706929260006322 | DSH插件圈大地震！dsh-std 协定核弹来袭，免维护 Adapter 保你插件长生不老永远不死！ | [▶](https://www.bilibili.com/video/BV13KhP6CEKq) |
+| 3706929260006322 | 见证历史！小米玄戒三芯合体引爆芯片界大地震！黄仁勋看到 AI Cube 眩晕瘫坐，DGX Spark 或将无人问津！｜ AI日报0824 | [▶](https://www.bilibili.com/video/BV1YChP6EELV) |
+| 3493082576193678 | Anthropic两款新模型内测泄露，多款产品服务出现中断 ｜ 8月24日AI日报第497期 | [▶](https://www.bilibili.com/video/BV1chhP64ENS) |
+| 3537104715909319 | 2026年8月24日信息差 | [▶](https://www.bilibili.com/video/BV1FehK6AEPC) |
 
 ---
 
