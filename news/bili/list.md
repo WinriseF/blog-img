@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-26 06:11:04 CST
+> 更新时间：2026-08-27 09:13:03 CST
+
+---
+
+## 2026-08-26（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | GMI Cloud与MiniMax宣布开放M3等模型14天免费调用【AI 早报 2026-08-25】 | [▶](https://www.bilibili.com/video/BV1Uchu6HEGC) |
+| 3706929260006322 | 官方逼氪！Plus 用户 Codex 5小时枷锁将回归！疑似Qwen Paloma突袭Arena，对标Opus 5，头皮发麻！｜ AI日报0826 | [▶](https://www.bilibili.com/video/BV1tthG6hEgT) |
+| 3493082576193678 | OpenAI宣布明天恢复5小时限额，豆包办公应用正式推出 ｜ 8月25日AI日报第498期 | [▶](https://www.bilibili.com/video/BV17XhG65EhW) |
+| 3537104715909319 | 2026年8月25日信息差 | [▶](https://www.bilibili.com/video/BV19dhG63Emg) |
 
 ---
 
