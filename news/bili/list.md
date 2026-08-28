@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-27 09:13:03 CST
+> 更新时间：2026-08-28 15:07:33 CST
+
+---
+
+## 2026-08-28（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 智谱发布并开源 GLM-5.3-Flash；阿里发布并开源 Qwen3.8-Flash【AI 早报 2026-08-27】 | [▶](https://www.bilibili.com/video/BV1vVhc63EJD) |
+| 3706929260006322 | Anthropic或将连发三款5.1模型：Claude用户能等来一次大升级吗？｜AI日报0827 | [▶](https://www.bilibili.com/video/BV1oX496SEeQ) |
+| 3493082576193678 | Minimax加快M模型迭代速度，披露下一代模型研发路线 ｜ 8月27日AI日报第500期 | [▶](https://www.bilibili.com/video/BV1564R6UEiC) |
+| 3537104715909319 | 回家开门先看30秒广告？ | [▶](https://www.bilibili.com/video/BV1Ub496TEWQ) |
 
 ---
 
