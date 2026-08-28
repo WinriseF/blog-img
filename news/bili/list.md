@@ -1,5 +1,106 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-18 20:16:04 CST
+> 更新时间：2026-08-28 15:07:33 CST
+
+---
+
+## 2026-08-28（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 智谱发布并开源 GLM-5.3-Flash；阿里发布并开源 Qwen3.8-Flash【AI 早报 2026-08-27】 | [▶](https://www.bilibili.com/video/BV1vVhc63EJD) |
+| 3706929260006322 | Anthropic或将连发三款5.1模型：Claude用户能等来一次大升级吗？｜AI日报0827 | [▶](https://www.bilibili.com/video/BV1oX496SEeQ) |
+| 3493082576193678 | Minimax加快M模型迭代速度，披露下一代模型研发路线 ｜ 8月27日AI日报第500期 | [▶](https://www.bilibili.com/video/BV1564R6UEiC) |
+| 3537104715909319 | 回家开门先看30秒广告？ | [▶](https://www.bilibili.com/video/BV1Ub496TEWQ) |
+
+---
+
+## 2026-08-26（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | GMI Cloud与MiniMax宣布开放M3等模型14天免费调用【AI 早报 2026-08-25】 | [▶](https://www.bilibili.com/video/BV1Uchu6HEGC) |
+| 3706929260006322 | 官方逼氪！Plus 用户 Codex 5小时枷锁将回归！疑似Qwen Paloma突袭Arena，对标Opus 5，头皮发麻！｜ AI日报0826 | [▶](https://www.bilibili.com/video/BV1tthG6hEgT) |
+| 3493082576193678 | OpenAI宣布明天恢复5小时限额，豆包办公应用正式推出 ｜ 8月25日AI日报第498期 | [▶](https://www.bilibili.com/video/BV17XhG65EhW) |
+| 3537104715909319 | 2026年8月25日信息差 | [▶](https://www.bilibili.com/video/BV19dhG63Emg) |
+
+---
+
+## 2026-08-25（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI Codex 重置付费用户用量并将上线用量异常修复【AI 早报 2026-08-24】 | [▶](https://www.bilibili.com/video/BV17Z8Y6qE5z) |
+| 3706929260006322 | DSH插件圈大地震！dsh-std 协定核弹来袭，免维护 Adapter 保你插件长生不老永远不死！ | [▶](https://www.bilibili.com/video/BV13KhP6CEKq) |
+| 3706929260006322 | 见证历史！小米玄戒三芯合体引爆芯片界大地震！黄仁勋看到 AI Cube 眩晕瘫坐，DGX Spark 或将无人问津！｜ AI日报0824 | [▶](https://www.bilibili.com/video/BV1YChP6EELV) |
+| 3493082576193678 | Anthropic两款新模型内测泄露，多款产品服务出现中断 ｜ 8月24日AI日报第497期 | [▶](https://www.bilibili.com/video/BV1chhP64ENS) |
+| 3537104715909319 | 2026年8月24日信息差 | [▶](https://www.bilibili.com/video/BV1FehK6AEPC) |
+
+---
+
+## 2026-08-24（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek 调整 API 计费：周末全天统一按低谷价收费【AI 早报 2026-08-23】 | [▶](https://www.bilibili.com/video/BV1R88x6kEvF) |
+| 3706929260006322 | AI圈海啸！智谱 glm-5.3-turbo 核弹或将来袭！Tibo 认错将重置用量并修复异常消耗问题！｜ AI日报0823 | [▶](https://www.bilibili.com/video/BV1Cz8b6PEDS) |
+| 3493082576193678 | OpenAI查明额度消耗异常原因，明日修复并重置额度 ｜ 8月23日AI日报第496期 | [▶](https://www.bilibili.com/video/BV1yz8b6PEX7) |
+| 3537104715909319 | 女装拆成“半片”卖！拍2片才能有一件完整衣服！ | [▶](https://www.bilibili.com/video/BV1zu8h6aELx) |
+
+---
+
+## 2026-08-23（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek-V4-Flash-Vision-Exp 上线；Codex 重置【AI 早报 2026-08-22】 | [▶](https://www.bilibili.com/video/BV1jJ8y6AEn2) |
+| 3706929260006322 | 大的要来了？Google DeepMind 全员谜语人！彻查！Tibo 发话或为缓存问题导致用量崩塌，将深入调查！｜ AI日报0822 | [▶](https://www.bilibili.com/video/BV1FB8m6mEm6) |
+| 67079745 | 【科技补全116】一年增长28亿，GitHub扛不住大面积崩溃；《GTA6》实机大量泄露，疑似源自印度工作室；解锁满血版DeepSeek Harness； | [▶](https://www.bilibili.com/video/BV1Ch8m6HEdr) |
+| 3493082576193678 | OpenAI宣布下调GPT-5.6 Sol模型价格，包含API与订阅 ｜ 8月22日AI日报第495期 | [▶](https://www.bilibili.com/video/BV1mt8m6WE5t) |
+| 3537104715909319 | 韩国提议中日合办2046世界杯 | [▶](https://www.bilibili.com/video/BV15t826vE1d) |
+
+---
+
+## 2026-08-22（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 突发：DeepSeek API 平台上线多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp ！ | [▶](https://www.bilibili.com/video/BV1aq8q6BE1N) |
+| 285286947 | OpenRouter 与 OpenCode 上线免费 stealth 模型 Ox Alpha【AI 早报 2026-08-21】 | [▶](https://www.bilibili.com/video/BV1Aq8K6TEyk) |
+| 3706929260006322 | AI圈核弹雨来袭！V4多模态模型上线API！GLM-5.3-Flash 或将来袭！Kimi数字员工Mira彻底觉醒！｜ AI日报0821 | [▶](https://www.bilibili.com/video/BV1d18i6GEoY) |
+| 3493082576193678 | Deepseek V4 Flash Vision EXP上线API，OX-Alpha匿名模型开启测试 ｜ 8月21日AI日报第494期 | [▶](https://www.bilibili.com/video/BV1ve8q6zEwK) |
+
+---
+
+## 2026-08-21（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI Codex 团队称已上线多层防护，降低误删用户文件风险【AI 早报 2026-08-20】 | [▶](https://www.bilibili.com/video/BV1gDbZ6xEjL) |
+| 3706929260006322 | AI圈核弹泄露！DeepSeek 视觉模型 v4-flash-vision-exp 现身 DSH 代码！Hy4 突发上架元宝！｜ AI日报0820 | [▶](https://www.bilibili.com/video/BV1nX8c6DESC) |
+| 3493082576193678 | OpenCode推出一系列免费优惠活动，Meta模型免费用，GPT-5.6半价 ｜ 8月20日AI日报第493期 | [▶](https://www.bilibili.com/video/BV1Wmbf67EXT) |
+| 3537104715909319 | 2026年8月20日信息差 | [▶](https://www.bilibili.com/video/BV1Jw8P6pEAp) |
+
+---
+
+## 2026-08-20（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 宣布放缓前沿模型训练；GLM-5.3 上线 API；Claude Code 周限提升50%活动延长【AI 早报 2026-08-19】 | [▶](https://www.bilibili.com/video/BV1SW876yE91) |
+| 3706929260006322 | AI巅峰战！Fable 5.1悄悄灰度测试，奥特曼再次瘫坐！DeepSeek V4 Pro 灰测风格重出江湖！｜ AI日报0819 | [▶](https://www.bilibili.com/video/BV1ew8n64EbW) |
+| 3493082576193678 | 智谱正式开放GLM5.3模型，OpenAI推迟新模型训练 ｜ 8月19日AI日报第492期 | [▶](https://www.bilibili.com/video/BV1Ar876PEkX) |
+| 3537104715909319 | 2026年8月19日信息差 | [▶](https://www.bilibili.com/video/BV1yz8J6GEy1) |
+
+---
+
+## 2026-08-19（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 锁定 4.25GW 数据中心容量，Claude Code 上线 /design，Cursor 推出 Origin【AI 早报 2026-08-18 | [▶](https://www.bilibili.com/video/BV1CmbB6dEMK) |
+| 3706929260006322 | 终端争夺战打响！MiniMax 代码工具杀入终端突袭 DSH！命令行旧时代崩塌！｜ AI日报0818 | [▶](https://www.bilibili.com/video/BV1x58u6mEZi) |
+| 3493082576193678 | 插件实现性能提升？Deepseek J-Space插件引发社区关注 ｜ 8月18日AI日报第491期 | [▶](https://www.bilibili.com/video/BV1Kw8g6mExv) |
+| 3537104715909319 | 上市前夕，宇树科技发布“超人” | [▶](https://www.bilibili.com/video/BV1CK8G6QEyQ) |
 
 ---
 
