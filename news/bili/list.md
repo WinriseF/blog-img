@@ -1,5 +1,28 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-28 15:07:33 CST
+> 更新时间：2026-08-30 21:18:24 CST
+
+---
+
+## 2026-08-30（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 腾讯发布并开源 Hy4 preview 模型；智谱修复 GLM-5.3-Flash 性能下降问题【AI 早报 2026-08-29】 | [▶](https://www.bilibili.com/video/BV1hE466iEYn) |
+| 3706929260006322 | 血流成河！OpenAI封杀Cursor断供模型！Tibo又暗示Codex额度或重置！｜ AI晚报0829 | [▶](https://www.bilibili.com/video/BV1ZV4y6xE75) |
+| 67079745 | 【科技补全117】你看过的B站视频，几天后可能会永久消失；为了推广必应，微软做了一个纯广告软件；小米发布新一代玄戒芯片；智谱开源 GLM-5.3； | [▶](https://www.bilibili.com/video/BV1D14C6yEFc) |
+| 3493082576193678 | OpenAI禁止Cursor访问GPT模型，Gemini 3.8 Flash预览版内部测试中 ｜ 8月29日AI日报第502期 | [▶](https://www.bilibili.com/video/BV1q74y6XEP4) |
+| 3537104715909319 | 出生人口创历史新低，年轻人到底在怕什么？ | [▶](https://www.bilibili.com/video/BV1e74y6XESz) |
+
+---
+
+## 2026-08-29（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Gemini Omni 1.1 Flash 发布；Codex 重置用户用量并推出 Luna Reserve 备用额度【AI 早报 2026-08-28】 | [▶](https://www.bilibili.com/video/BV1QQ4f6dEFN) |
+| 3706929260006322 | 腾讯龙王归来 Hy4 Preview 核弹突袭！ZCode狂撒3亿Token/人！谷歌被曝内测Gemini 3.8 Flash！｜ AI日报0828 | [▶](https://www.bilibili.com/video/BV1wztA6HENy) |
+| 67079745 | 鸿蒙这些底层套件，才是穿戴App的“开挂”密码 | [▶](https://www.bilibili.com/video/BV1dMtA6rEoJ) |
+| 3493082576193678 | 腾讯发布HY4预览版模型，性能暴涨，开源模型第一梯队 ｜ 8月28日AI日报第501期 | [▶](https://www.bilibili.com/video/BV13ptA6AEwh) |
 
 ---
 
