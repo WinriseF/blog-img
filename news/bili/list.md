@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-30 21:18:24 CST
+> 更新时间：2026-08-31 06:57:15 CST
+
+---
+
+## 2026-08-31（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI将断供Cursor；Codex 重置并修复额度问题；Claude 将调整周限额；豆包为学生免费提供3个月会员【AI 早报 2026-08-30】 | [▶](https://www.bilibili.com/video/BV1Tx4Q6hECC) |
+| 3706929260006322 | 魔王降世！OpenAI Astra 将发！或为 GPT-6 人类颤栗，世界或将颠覆！｜ AI晚报0830 | [▶](https://www.bilibili.com/video/BV1A8tH6gEd5) |
+| 3493082576193678 | GPT新模型前瞻，Claude永久提升25%套餐额度 ｜ 8月30日AI日报第503期 | [▶](https://www.bilibili.com/video/BV1d94Q63Ey9) |
+| 3537104715909319 | 今年秋季学期，全国小学、初中将完成新教材的全部替换 | [▶](https://www.bilibili.com/video/BV1pvtW6yEbB) |
 
 ---
 
