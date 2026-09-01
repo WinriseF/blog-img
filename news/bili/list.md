@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-01 08:50:51 CST
+> 更新时间：2026-09-02 06:53:19 CST
+
+---
+
+## 2026-09-02（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek-V4-Flash-Vision-Exp 权重发布；OpenClaw 2.0 版本发布【AI 早报 2026-09-01】 | [▶](https://www.bilibili.com/video/BV1tVtM6CEr3) |
+| 3706929260006322 | 奥特曼谈论Astra：达到人类水平！讯飞星火X2.5突发开源，API免费用！｜ AI日报0901 | [▶](https://www.bilibili.com/video/BV1dxt36wEbp) |
+| 3493082576193678 | 智谱公布下代模型研发方向，腾讯推出HY4轻量版 ｜ 9月1日AI日报第505期 | [▶](https://www.bilibili.com/video/BV1KUt367ECN) |
+| 3537104715909319 | 35%日本青年拒婚！10万人调查揭开少子化真相，钱和自由成最大阻力 | [▶](https://www.bilibili.com/video/BV1F7t36BEjU) |
 
 ---
 
