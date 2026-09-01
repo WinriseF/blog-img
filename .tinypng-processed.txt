@@ -57,3 +57,8 @@ images/share/97859f1c57799dd2.png	722ba74dd6e536dedb730cbd6ff9b33d79d95d92aca628
 images/toolbox/winrisef-toolbox-agent-favicon.png	699f9f25cbc39c0c6cf459730c37c0736752d4730485f247bfa8d48fef1297eb	6402	skipped-size	2026-08-19T08:22:39.559Z
 images/toolbox/winrisef-toolbox-agent.png	6c5dcc9e94992c52b101776027c7390234eddb9cc598d6f05f323b691f4a5c6c	80713	compressed	2026-08-19T08:22:41.234Z
 blogs/db2026/cover.png	d616564a72e4de84e031085494f6deaa12b01a165505feb41988199464278cbf	631936	compressed	2026-08-28T09:11:34.768Z
+blogs/db2026/shanghai-bund-architecture-night.jpg	977f6840af876a56c7d5d8655ba8f8c09fd1ac7d69f3ef2db877ea5f6ea3b17f	245750	compressed	2026-09-01T07:31:23.430Z
+blogs/db2026/shanghai-bund-skyline-night.jpg	5df557aa0db7eccd9615c06c80b6081876bba06a61838cda494ef170e06aedfc	214741	compressed	2026-09-01T07:31:24.970Z
+blogs/db2026/shanghai-oriental-pearl-day.jpg	3703a94062c4768a2286ca7e0e8cd082af732cd35b6a0cceeab78eb59de2d1c9	92356	compressed	2026-09-01T07:31:26.011Z
+blogs/db2026/sihang-warehouse-entrance.jpg	86ad4ea2967cc6cbce2d0b1c299bdb52b5e00822296e0038e536f749789a0747	704113	compressed	2026-09-01T07:31:41.076Z
+blogs/db2026/sihang-warehouse-exterior.jpg	2826b4c287b8b725fd596fbc68c1fe583684ef7750be657227dd00d425b6e8fd	683546	compressed	2026-09-01T07:31:55.373Z
