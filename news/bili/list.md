@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-08-31 06:57:15 CST
+> 更新时间：2026-09-01 08:50:51 CST
+
+---
+
+## 2026-09-01（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | ChatGPT 桌面端更新优化；Codex 用量重置【AI 早报 2026-08-31】 | [▶](https://www.bilibili.com/video/BV1Cjt46WEQV) |
+| 3706929260006322 | DeepSeek-V4-Flash-Vision-Exp 正式开源；Claude 200美元天价套餐被曝“虚标欺诈”｜ AI日报0831 | [▶](https://www.bilibili.com/video/BV1k1t86FELv) |
+| 3537104715909319 | “三桶油”日赚12亿，高油价红利与新能源转型双轮驱动 | [▶](https://www.bilibili.com/video/BV1Seta67EXL) |
 
 ---
 
