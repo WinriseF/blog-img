@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-03 08:47:36 CST
+> 更新时间：2026-09-04 07:37:28 CST
+
+---
+
+## 2026-09-04（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Google 发布 Gemini 3.8 Flash；Meta 发布 Muse Spark 1.3【AI 早报 2026-09-03】 | [▶](https://www.bilibili.com/video/BV1yNtR6vEDB) |
+| 3706929260006322 | 载入史册！大的要来了！GPT-6 Astra 或将发布！｜ AI日报0903 | [▶](https://www.bilibili.com/video/BV1zEto6eE63) |
+| 3493082576193678 | OA两家优势所剩无几，谷歌Meta同日推出优秀模型 ｜ 9月3日AI日报第507期 | [▶](https://www.bilibili.com/video/BV1qutZ68EMN) |
 
 ---
 
