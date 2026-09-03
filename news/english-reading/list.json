@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "key": "2026-09-02",
+      "title": "Why Passkeys May Finally Replace the Password",
+      "hasAudio": true
+    },
+    {
+      "key": "2026-09-01",
+      "title": "Why AI Is Becoming an Energy Story",
+      "hasAudio": true
+    },
+    {
+      "key": "2026-08-31",
+      "title": "Why AI Agents Need More Than a Bigger Memory",
+      "hasAudio": true
+    },
+    {
+      "key": "2026-08-30",
+      "title": "Why AI Agents Need Sandboxes Before They Can Work Alone",
+      "hasAudio": true
+    }
+  ]
+}
