@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-02 06:53:19 CST
+> 更新时间：2026-09-03 08:47:36 CST
+
+---
+
+## 2026-09-03（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Anthropic 发布 Claude Fable 5.1 ；OpenAI 宣布即将发布 Astra【AI 早报 2026-09-02】 | [▶](https://www.bilibili.com/video/BV1mDtL6hE4x) |
+| 3706929260006322 | AI圈核弹雨来袭！Gemini 3.8 Flash 或已上线！OpenAI Astra 未发却引发硅谷恐慌！Grok 4.7 将于十天后发布！｜ AI晚报090 | [▶](https://www.bilibili.com/video/BV1U5tJ6kEXJ) |
+| 3493082576193678 | 千问推出新版Qwen 3.8 Max，Gemini 3.8 Flash以及Grok 4.7即将发布 ｜ 9月2日AI日报第506期 | [▶](https://www.bilibili.com/video/BV1DXtJ61Edp) |
+| 3537104715909319 | 3万元“付费实习”围猎大学生，黑中介套路极深 | [▶](https://www.bilibili.com/video/BV1kftm6LEu3) |
 
 ---
 
