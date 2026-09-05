@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-04 07:37:28 CST
+> 更新时间：2026-09-05 18:58:57 CST
+
+---
+
+## 2026-09-05（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 发布 GPT-6 Astra【AI 早报 2026-09-04】 | [▶](https://www.bilibili.com/video/BV1dTtv6aEDc) |
+| 3706929260006322 | 奥特曼公开认罪，Astra推送全面混乱惨遭全网声讨，GPT-Image 2.5毫无预警泄露！｜ AI日报0904 | [▶](https://www.bilibili.com/video/BV1eztB6MEg8) |
+| 3493082576193678 | 匿名模型Omen-Alpha上线OpenCode，GPT-6-Astra正式发布 ｜ 9月4日AI日报第508期 | [▶](https://www.bilibili.com/video/BV1XCtB6vEoL) |
+| 3537104715909319 | 多家银行明确：1991年前出生的人，不能新办理40年期个人房贷 | [▶](https://www.bilibili.com/video/BV19wt663EMr) |
 
 ---
 
