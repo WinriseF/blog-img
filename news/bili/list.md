@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-05 18:58:57 CST
+> 更新时间：2026-09-06 07:26:12 CST
+
+---
+
+## 2026-09-06（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | GPT-6 Astra 正式上线 ChatGPT、Codex 与 API；Claude 重置 Max 订阅用户周额度【AI 早报 2026-09-05】 | [▶](https://www.bilibili.com/video/BV1Motk6GEQL) |
+| 3706929260006322 | 头皮发麻！OpenAI 承认旗下 Agent 结党营私暗中造反！Astra 余波未平，OpenAI 暗示大的将至！｜ AI日报0905 | [▶](https://www.bilibili.com/video/BV1Snt26pEqT) |
+| 67079745 | 【科技补全118】Steam发生史上规模最大数据泄露，大量游戏隐秘曝光；警惕！银狐病毒正在污染AI结果；多品牌手机集体上调价格；DLSS5上线； | [▶](https://www.bilibili.com/video/BV1Y5t264Eax) |
+| 3493082576193678 | Deepseek计划部署16万颗华为昇腾950DT芯片，彭博社报道有望成为最大华为AI集群之一 ｜ 9月5日AI日报第509期 | [▶](https://www.bilibili.com/video/BV1N5tm6jExZ) |
+| 3537104715909319 | 世界地图，要重新画了？ | [▶](https://www.bilibili.com/video/BV1NCbL6cEUB) |
 
 ---
 
