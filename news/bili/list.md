@@ -1,5 +1,14 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-06 07:26:12 CST
+> 更新时间：2026-09-07 07:18:33 CST
+
+---
+
+## 2026-09-07（共 2 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 回应 “wiki 事件”：将公布 misalignment 披露框架【AI 早报 2026-09-06】 | [▶](https://www.bilibili.com/video/BV1mpbE63EYK) |
+| 3493082576193678 | Kimi、Minimax多家厂商计划开通网店，入驻天猫售卖Token订阅服务 ｜ 9月6日AI日报第510期 | [▶](https://www.bilibili.com/video/BV1RrbW6YE3b) |
 
 ---
 
