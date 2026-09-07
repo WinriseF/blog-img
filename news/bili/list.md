@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-07 07:18:33 CST
+> 更新时间：2026-09-08 07:53:37 CST
+
+---
+
+## 2026-09-08（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 称已达成自动化研究实习员目标【AI 早报 2026-09-07】 | [▶](https://www.bilibili.com/video/BV1ACbw6XENk) |
+| 3706929260006322 | 巨头工作战爆发！阿里Qoder AI员工军团上线！腾讯升级 Hy4 preview！｜ AI日报0907 | [▶](https://www.bilibili.com/video/BV1SdbN63E7Q) |
+| 3493082576193678 | 腾讯混元推出HY4升级版，阿里发布QoderWake 1.0版本 | [▶](https://www.bilibili.com/video/BV1MAbK6qE5S) |
+| 3537104715909319 | 野生狗奶已经落幕了，现在登场的是蟑螂奶 | [▶](https://www.bilibili.com/video/BV1Bvbx6jEmX) |
 
 ---
 
