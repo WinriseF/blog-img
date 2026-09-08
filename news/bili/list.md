@@ -1,5 +1,18 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-08 07:53:37 CST
+> 更新时间：2026-09-09 07:44:25 CST
+
+---
+
+## 2026-09-09（共 6 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 突发！DeepSeek V4.1 Flash 中间版本开启测试“deepseek-v4.1-flash-expires-on-0910” | [▶](https://www.bilibili.com/video/BV1ZSb36zE9G) |
+| 285286947 | ChatGPT Work 推出个人写作风格学习功能；Codex 重置付费用户用量限制【AI 早报 2026-09-08】 | [▶](https://www.bilibili.com/video/BV1Zgb36KEVs) |
+| 3706929260006322 | 双日凌空！DeepSeek V4.1 Flash引爆全球！小米MiMo-X新模型随Desktop突袭公测！OpenAI学术声誉雪崩！｜ AI日报0908 | [▶](https://www.bilibili.com/video/BV17dbV65EJt) |
+| 67079745 | 当我用豆包工作Agent在游戏中塞入知识... | [▶](https://www.bilibili.com/video/BV1y5bg6yENh) |
+| 3493082576193678 | Deepseek V4.1 Flash模型开放，小米Mimo新模型开放邀测 ｜ 9月8日AI日报第512期 | [▶](https://www.bilibili.com/video/BV18Gb56aEjQ) |
+| 3537104715909319 | 你的时间够用吗？2026年全国时间利用调查正式启动 | [▶](https://www.bilibili.com/video/BV1RWYJ6PE8R) |
 
 ---
 
