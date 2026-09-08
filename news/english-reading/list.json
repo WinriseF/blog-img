@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "key": "2026-09-08",
+      "title": "When AI Writes More Code, Who Does the Reviewing?",
+      "hasAudio": true
+    },
+    {
       "key": "2026-09-07",
       "title": "Why Faster AI Coding Does Not Always Mean Faster Developers",
       "hasAudio": true
