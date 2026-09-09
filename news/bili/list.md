@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-09 07:44:25 CST
+> 更新时间：2026-09-10 06:48:46 CST
+
+---
+
+## 2026-09-10（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 发布 Navier–Stokes 方程 AI 解法；GPT Images 2.5 发布；DeepSeek Flash 系列降价【AI 早报】 | [▶](https://www.bilibili.com/video/BV1LKYp6VEXB) |
+| 3706929260006322 | 走向灭亡！Anthropic 员工警告人类或将被ASI灭绝，Tibo 宣布或将暂停开放 ChatGPT Pro 订阅！｜ AI日报0909 | [▶](https://www.bilibili.com/video/BV1rHYx6fEzy) |
+| 3706929260006322 | 突发：DeepSeek V4 Pro 落幕！ DeepSeek 官宣将正式发布 V4.1 Flash 取而代之！ | [▶](https://www.bilibili.com/video/BV1utY46yEvG) |
+| 3493082576193678 | Deepseek委托中信筹备科创板IPO，OpenAI可能暂停Pro新订阅 ｜ 9月9日AI日报 | [▶](https://www.bilibili.com/video/BV1QPYx63EeX) |
 
 ---
 
