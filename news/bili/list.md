@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-10 06:48:46 CST
+> 更新时间：2026-09-11 07:28:15 CST
+
+---
+
+## 2026-09-11（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek 正式发布 DeepSeek V4.1 Flash：更强、更快、更普惠 | [▶](https://www.bilibili.com/video/BV1XbYM6cEHB) |
+| 285286947 | DeepSeek 宣布即将发布 V4.1 Flash；OpenAI 或将暂停开放 ChatGPT Pro 订阅【AI 早报 2026-09-10】 | [▶](https://www.bilibili.com/video/BV12iYK6mEmo) |
+| 3706929260006322 | 数学界崩塌！OpenAI 或又攻破千禧年猜想，DeepSeek V4.1 Flash突袭，挥泪斩杀老旗舰！ ｜  AI日报0910 | [▶](https://www.bilibili.com/video/BV1U7Yu6tEAR) |
+| 3493082576193678 | V4.1 Flash发布：全新模型结构，性能更强成本更低 ｜ 9月10日AI日报第514期 | [▶](https://www.bilibili.com/video/BV1irYT6PEoB) |
 
 ---
 
