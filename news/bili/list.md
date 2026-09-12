@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-11 07:28:15 CST
+> 更新时间：2026-09-12 17:40:23 CST
+
+---
+
+## 2026-09-12（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 宣布暂停 ChatGPT Pro 20x 新订阅；DeepSeek 发布并开源 DeepSeek V4.1 Flash【AI 早报 2026-09 | [▶](https://www.bilibili.com/video/BV1QrY56jE2k) |
+| 3706929260006322 | DeepSeek妥协！紧急撤回 V4 Pro API 下线通告，V4.1 Flash 强推计划一夜蒸发！ | [▶](https://www.bilibili.com/video/BV1j7Y76hEbF) |
+| 3706929260006322 | 时空乱流！Kimi K2.8横空出世引发热议！Codex负责人Tibo诡异回应用户疑似又要重置！ ｜  AI日报0911 | [▶](https://www.bilibili.com/video/BV1pCY76kEXW) |
+| 67079745 | 微信偷偷做了很多功能，但知道的人却不到1%！ | [▶](https://www.bilibili.com/video/BV1KEYE6UECw) |
+| 3493082576193678 | 月之暗面推出Kimi K2.8预览版模型，OpenAI暂停Pro套餐新增订阅 ｜ 9月11日AI日报第515期 | [▶](https://www.bilibili.com/video/BV1W1Y763Eoq) |
 
 ---
 
