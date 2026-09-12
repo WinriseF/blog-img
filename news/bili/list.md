@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-12 17:40:23 CST
+> 更新时间：2026-09-13 07:28:47 CST
+
+---
+
+## 2026-09-13（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Kimi 上线 Kimi K2.8 Preview；DeepSeek 调整 V4 Pro 的 API 下线计划【AI 早报 2026-09-12】 | [▶](https://www.bilibili.com/video/BV1kAYS6FEeF) |
+| 3706929260006322 | 惊悚偷跑！GPT-6 系列新模型或将发布！Codex 已重置！月之暗面辟谣传闻！｜ AI日报0912 | [▶](https://www.bilibili.com/video/BV1J7Y96TEPX) |
+| 67079745 | 【科技补全119】微信高危漏洞，一个电话接管对方账号！华为、小米、苹果发布大量新品；DLSS民间版，兼容20、30、40显卡； | [▶](https://www.bilibili.com/video/BV1QDYX69EJL) |
+| 3493082576193678 | Deepseek灰测语音朗读功能，并宣布保留V4 Pro模型API调用 ｜ 9月12日AI日报第516期 | [▶](https://www.bilibili.com/video/BV167Y96KEBa) |
+| 3537104715909319 | 日本梅毒大爆发：交友软件成“隐形推手”！ | [▶](https://www.bilibili.com/video/BV1ZsY267ERf) |
 
 ---
 
