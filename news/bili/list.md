@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-14 07:46:45 CST
+> 更新时间：2026-09-15 06:48:49 CST
+
+---
+
+## 2026-09-15（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 智谱敲定约50亿美元融资，开发下一代GLM基础模型【AI 早报 2026-09-14】 | [▶](https://www.bilibili.com/video/BV1ATYk65Edz) |
+| 3706929260006322 | 动作频频！DeepSeek 疑似招揽顶级 CFO 冲刺IPO！DeepSeek Harness 与 App 或有重大更新！ ｜  AI日报0914 | [▶](https://www.bilibili.com/video/BV1coYy6UExk) |
+| 3493082576193678 | 美国新提案禁止前沿AI发展，AI治理刻不容缓？ ｜ 9月14日AI日报第518期 | [▶](https://www.bilibili.com/video/BV1u6Yk6QEK1) |
+| 3537104715909319 | 年入百万家庭，近四成“不在工位” | [▶](https://www.bilibili.com/video/BV194Yk68EQX) |
 
 ---
 
