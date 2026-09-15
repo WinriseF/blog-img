@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-15 06:48:49 CST
+> 更新时间：2026-09-16 07:14:25 CST
+
+---
+
+## 2026-09-16（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 豆包手机助手消费者版发布；苹果发布新一代 Apple Intelligence，重构 Siri AI【AI 早报 2026-09-15】 | [▶](https://www.bilibili.com/video/BV1Sqej6DEqV) |
+| 3706929260006322 | 冲击 Astra！Claude Opus 5.2 暗度陈仓灰度测试，谷歌Argon秘密突围或将发布！硝烟弥漫！｜ AI日报0915 | [▶](https://www.bilibili.com/video/BV1XoeJ6vE17) |
+| 3493082576193678 | Opus5.2以及GPT6-Sol相继灰测，Qoder推出每日重置活动 ｜ 9月15日AI日报第519期 | [▶](https://www.bilibili.com/video/BV1KGen6sECW) |
+| 3537104715909319 | 美军首次承认在太空部署武器 | [▶](https://www.bilibili.com/video/BV1daen66E8z) |
 
 ---
 
