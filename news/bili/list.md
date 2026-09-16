@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-16 07:14:25 CST
+> 更新时间：2026-09-17 07:19:34 CST
+
+---
+
+## 2026-09-17（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Sam Altman 预告 OpenAI 本周将有重大发布【AI 早报 2026-09-16】 | [▶](https://www.bilibili.com/video/BV1mZes6uEYu) |
+| 3706929260006322 | 全面雪崩！豆包Seed-2.1-pro突发更新0915版本围剿硅谷！豆包手机2代同步开售！｜  AI日报0916 | [▶](https://www.bilibili.com/video/BV1Mhec66E1h) |
+| 67079745 | 以后的年轻人，可能要不会用现在的智能手机了... | [▶](https://www.bilibili.com/video/BV1PZen69EVQ) |
+| 3493082576193678 | 豆包发布Seed-2.1-Pro-0915模型，Deepseek工程师回应社区热议 ｜ 9月16日AI日报第520期 | [▶](https://www.bilibili.com/video/BV1auew6yE5V) |
 
 ---
 
