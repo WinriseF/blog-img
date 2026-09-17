@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-17 07:19:34 CST
+> 更新时间：2026-09-18 07:11:27 CST
+
+---
+
+## 2026-09-18（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenRouter 与 OpenCode 上线免费“stealth”模型 Union Alpha【AI 早报 2026-09-17】 | [▶](https://www.bilibili.com/video/BV1kaeK65EQU) |
+| 3706929260006322 | 金融圈海啸！Kimi金融核弹功能深夜引爆华尔街！Grok 4.7 行踪泄露对标 Opus 或将发布！｜ AI日报0917 | [▶](https://www.bilibili.com/video/BV1MUeu6cEC6) |
+| 3493082576193678 | 阿里定档9月22日，推出多款Qwen模型以及新产品 | [▶](https://www.bilibili.com/video/BV1aCeu6eEsr) |
+| 3537104715909319 | 嘀一声就借钱？这次真到头了 | [▶](https://www.bilibili.com/video/BV1V6e365E1E) |
 
 ---
 
