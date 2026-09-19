@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-19 08:44:57 CST
+> 更新时间：2026-09-20 07:45:55 CST
+
+---
+
+## 2026-09-20（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 智谱 ZCode 被指可能打包上传工作区文件；Claude Code 支持 AGENTS.md  【AI 早报 2026-09-19】 | [▶](https://www.bilibili.com/video/BV1N3eX6LEQY) |
+| 3706929260006322 | AI圈核弹雨！诸神之战血流成河：GPT-6 Sol/Luna、Fable/Opus/Sonnet 5.2、Gemini 4、K3.1、M3.1、Step 5！ | [▶](https://www.bilibili.com/video/BV1cBeb66EVW) |
+| 67079745 | 【科技补全120】科学家复刻了一颗大脑！并把它上传到了虚拟世界；Agent自动制作科普视频、复刻爆款视频； | [▶](https://www.bilibili.com/video/BV1Kxeb6mE8o) |
+| 3493082576193678 | 阶跃星辰Step5模型亮相，持平Kimi K3跻身第一梯队 ｜ 9月19日AI日报第523期 | [▶](https://www.bilibili.com/video/BV1Naeb6CEAN) |
 
 ---
 
