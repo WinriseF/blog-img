@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-18 07:11:27 CST
+> 更新时间：2026-09-19 08:44:57 CST
+
+---
+
+## 2026-09-19（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Claude Code 重构 Projects 功能，支持协调并行云端线程【AI 早报 2026-09-18】 | [▶](https://www.bilibili.com/video/BV1cNey67ENm) |
+| 3706929260006322 | 良心核弹！智谱免费替全国程序员备份全量代码仓库！疑似GLM-5.5觉醒入侵ZCode帮助用户审查代码！｜ AI日报0918 | [▶](https://www.bilibili.com/video/BV1NPeU6eENC) |
+| 3493082576193678 | GLM 5.3-FlashX发布，ZCode被曝后台上传用户数据 ｜ 9月18日AI日报第522期 | [▶](https://www.bilibili.com/video/BV1AueU6cESy) |
+| 3537104715909319 | 77比97！中国男篮创队史亚运最大输球分差，最多落后35分、全场一次都没领先，问题到底出在哪？ | [▶](https://www.bilibili.com/video/BV14peS6gE7w) |
 
 ---
 
