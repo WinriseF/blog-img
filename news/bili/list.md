@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-20 07:45:55 CST
+> 更新时间：2026-09-21 08:36:57 CST
+
+---
+
+## 2026-09-21（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | DeepSeek 公布最新 API 峰谷计费规则；Step 5 Preview 现身知名评测网站与官方订阅【AI 早报 2026-09-20】 | [▶](https://www.bilibili.com/video/BV1NqeY6dEPP) |
+| 3706929260006322 | 阶跃 Step 5 Preview 深夜引爆硅谷，600B恐怖巨兽降临！今晚21点超级海啸来袭！Qwen-Image-2.1开源大地震！｜ AI日报0920 | [▶](https://www.bilibili.com/video/BV1toei6zEac) |
+| 3493082576193678 | Anthropic计划发布三款模型，准备冲刺IPO ｜ 9月20日AI日报第524期 | [▶](https://www.bilibili.com/video/BV1vxeq6SEuQ) |
 
 ---
 
