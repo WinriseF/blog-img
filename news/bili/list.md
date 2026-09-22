@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-21 08:36:57 CST
+> 更新时间：2026-09-22 08:21:16 CST
+
+---
+
+## 2026-09-22（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 智谱：ZCode 完成整改、接受第三方审查并开放源码。 | [▶](https://www.bilibili.com/video/BV1CZhe6JEtm) |
+| 285286947 | Qwen-Image-2.1开源；Step 5 Preview发布；Jev开放并赠新用户$5【AI 早报 2026-09-21】 | [▶](https://www.bilibili.com/video/BV1aphv6AEg1) |
+| 3706929260006322 | AI 终局决战！Claude Opus 5.5 核弹空降狙击 GPT-6 Sol，OpenAI 或彻底溃败！｜ AI日报0921 | [▶](https://www.bilibili.com/video/BV1S9hB6BEV8) |
+| 3493082576193678 | 智谱官方正式道歉并开源ZCode，同步推出数据不留存机制 ｜ 9月21日AI日报第525期 | [▶](https://www.bilibili.com/video/BV1zUhv6LEfr) |
 
 ---
 
