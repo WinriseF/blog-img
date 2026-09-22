@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-22 08:21:16 CST
+> 更新时间：2026-09-23 06:28:43 CST
+
+---
+
+## 2026-09-23（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 小米发布并开源 MiMo-V2.6 系列模型；SpaceXAI 发布 Grok 4.7 模型【AI 早报 2026-09-22】 | [▶](https://www.bilibili.com/video/BV1TThC6jEuq) |
+| 3706929260006322 | AI战争全面爆发！阿里Qwen4钢铁洪流蓄势待发，DeepSeek锁定华为芯片训2T模型吓哭黄仁勋！｜ AI日报0922 | [▶](https://www.bilibili.com/video/BV11shJ61Eki) |
+| 3493082576193678 | 阿里公布4款Qwen4模型，暂未透露发布时间 ｜ 9月22日AI日报第526期 | [▶](https://www.bilibili.com/video/BV1Pmhj6PE3F) |
+| 3537104715909319 | 抽烟，可能抽掉学费减免资格 | [▶](https://www.bilibili.com/video/BV1fzhk6eEmn) |
 
 ---
 
