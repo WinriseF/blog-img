@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-23 06:28:43 CST
+> 更新时间：2026-09-24 07:16:17 CST
+
+---
+
+## 2026-09-24（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Anthropic 发布 Claude Opus 5.5；OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna【AI 早报 2026-09-23】 | [▶](https://www.bilibili.com/video/BV1LRhW6kEk6) |
+| 3706929260006322 | 路透社：DeepSeek本周将向联合国安理会介绍人工智能风险 ｜ AI晚报0923 | [▶](https://www.bilibili.com/video/BV19xh86REZc) |
+| 3493082576193678 | Deepseek公开DSec技术，提供大规模Agent训练基础设施 ｜ 9月23日AI日报第527期 | [▶](https://www.bilibili.com/video/BV1MZh46TE7Q) |
+| 3537104715909319 | 苹果出手整治App摇一摇跳转广告 | [▶](https://www.bilibili.com/video/BV1GShb6nENN) |
 
 ---
 
