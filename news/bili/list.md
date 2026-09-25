@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-24 07:16:17 CST
+> 更新时间：2026-09-25 22:14:22 CST
+
+---
+
+## 2026-09-25（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | Space Bunny Alpha 现身 OpenRouter与OpenCode【AI 早报 2026-09-24】 | [▶](https://www.bilibili.com/video/BV1xdhf6ZEyk) |
+| 3706929260006322 | 【黑鸦】AI奇点已至！Gemini 4 官宣内部使用中猛龙出笼在即！DeepSeek狂揽500亿现金流吃饱饱！ | [▶](https://www.bilibili.com/video/BV1eQaN6REMs) |
+| 3493082576193678 | 谷歌确认Gemini4开发进度，小米公开Mimo V3架构细节，腾讯QClaw停止运营 ｜ 9月24日AI日报第528期 | [▶](https://www.bilibili.com/video/BV1PhaA6aEJs) |
 
 ---
 
