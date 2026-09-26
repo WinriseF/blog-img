@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-26 16:03:03 CST
+> 更新时间：2026-09-27 07:13:25 CST
+
+---
+
+## 2026-09-27（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | 美团LongCat发布LongCat-2.5-Preview；Codex重置【AI 早报 2026-09-26】 | [▶](https://www.bilibili.com/video/BV1GMhQ6mEzJ) |
+| 3706929260006322 | 震撼首发！！首个 DSH 负责人推荐社区插件居然是它…！仿佛看到核弹爆炸 | [▶](https://www.bilibili.com/video/BV13rho68Ebt) |
+| 3706929260006322 | 【黑鸦】OpenAI绝密武器「o」或将上线！马斯克扎克伯格眩晕瘫坐！OpenAI自爆：最强模型越狱，已全面封停！ | [▶](https://www.bilibili.com/video/BV1suhR6CEnD) |
+| 67079745 | 【科技补全121】摇一摇广告，这次真的能全部干掉了；未满16岁，或将强制开启未成年模式；多品牌发布新手机，价格全面大涨； | [▶](https://www.bilibili.com/video/BV1T2hR6EE4V) |
+| 3493082576193678 | Qwen预览模型开放测试申请，Cline上线Pixel Canary匿名模型 ｜ 9月26日AI日报第530期 | [▶](https://www.bilibili.com/video/BV1cAhd6qENS) |
 
 ---
 
