@@ -63,3 +63,7 @@ blogs/db2026/shanghai-oriental-pearl-day.jpg	3703a94062c4768a2286ca7e0e8cd082af7
 blogs/db2026/sihang-warehouse-entrance.jpg	86ad4ea2967cc6cbce2d0b1c299bdb52b5e00822296e0038e536f749789a0747	704113	compressed	2026-09-01T07:31:41.076Z
 blogs/db2026/sihang-warehouse-exterior.jpg	2826b4c287b8b725fd596fbc68c1fe583684ef7750be657227dd00d425b6e8fd	683546	compressed	2026-09-01T07:31:55.373Z
 blogs/server-oom-and-network-troubleshooting/cover.png	460ddbc2c909fb949d763c4588842503c50567837e7716ce8883db78921e05c5	400202	compressed	2026-09-08T03:13:49.814Z
+images/project/mo-stack/login-backgrounds/dawn.png	95d94579ca62842e46eaf6b2dbe72a48ae11c2b22cf92d9b9e633136950d7976	458958	compressed	2026-09-26T13:18:03.019Z
+images/project/mo-stack/login-backgrounds/night.png	3fd4a35b2dba8385105e66a3b9349e47f3bd85067b2055352c667a48152e2a60	497086	compressed	2026-09-26T13:18:07.040Z
+images/project/mo-stack/login-backgrounds/noon.png	6eedf6800e2584ab13027b78650cca8343f5b148722f2393ce96501edb97be5a	449752	compressed	2026-09-26T13:18:10.908Z
+images/project/mo-stack/login-backgrounds/sunset.png	4a1be7e3db7d4d71562abd5ad88d927982dd3cb7720d0eefdea4a8714ea9f919	455997	compressed	2026-09-26T13:18:14.601Z
