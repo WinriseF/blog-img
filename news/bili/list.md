@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-25 22:14:22 CST
+> 更新时间：2026-09-26 16:03:03 CST
+
+---
+
+## 2026-09-26（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | ChatGPT 或新增每月 500 美元的 Pro Max 订阅方案【AI 早报 2026-09-25】 | [▶](https://www.bilibili.com/video/BV1UXag6bETG) |
+| 3706929260006322 | 【黑鸦】ChatGPT界面突袭大变，“Web Merge”出鞘！马斯克Colossus算力海啸席卷硅谷，78万颗GPU深夜引爆！全球电网陷入瘫痪… | [▶](https://www.bilibili.com/video/BV1Gnh26PEMv) |
+| 3493082576193678 | Deepseek Harness官方桌面端现已支持下载，暂未正式发布 ｜ 9月25日AI日报第529期 | [▶](https://www.bilibili.com/video/BV1WRhC6VEZi) |
 
 ---
 
