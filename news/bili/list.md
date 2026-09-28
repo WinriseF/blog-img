@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-27 07:13:25 CST
+> 更新时间：2026-09-28 14:00:41 CST
+
+---
+
+## 2026-09-28（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 暂停最强模型涉及工具调用的训练、评估和推理【AI 早报 2026-09-27】 | [▶](https://www.bilibili.com/video/BV1L2ax6SE5r) |
+| 3706929260006322 | 【黑鸦】核弹来袭！MiniMax M3.1 深夜引爆 AI 圈，大重置时代来临！Sonnet 5.5 或下周降临斩杀 GPT 6 Sol ！ChatGPT 暗改 | [▶](https://www.bilibili.com/video/BV1nwa86KEjU) |
+| 3706929260006322 | 我们给 DeepSeek Harness 补上了缺失的 TUI！ | [▶](https://www.bilibili.com/video/BV1QRax6VEM1) |
+| 3493082576193678 | Minimax发布M3.1-Flash预览版模型，OpenAI暂停前沿模型训练 ｜ 9月27日AI日报第531期 | [▶](https://www.bilibili.com/video/BV11va86kESA) |
 
 ---
 
