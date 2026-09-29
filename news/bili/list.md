@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-28 14:00:41 CST
+> 更新时间：2026-09-29 22:24:30 CST
+
+---
+
+## 2026-09-29（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | MiniMax 上线 M3.1-Flash-Preview【AI 早报 2026-09-28】 | [▶](https://www.bilibili.com/video/BV1aMav6iETA) |
+| 3706929260006322 | 【黑鸦】海啸来袭！DeepSeek实时语音突袭灰度上线，DeepSeek Harness桌面版即将官宣！ | [▶](https://www.bilibili.com/video/BV1uja566EvV) |
+| 3493082576193678 | 智谱发起用户信任挽回活动，Sonnet5.5或将于OpenAI开发者日上线 ｜ 9月28日AI日报第532期 | [▶](https://www.bilibili.com/video/BV1yAa36QEbK) |
 
 ---
 
