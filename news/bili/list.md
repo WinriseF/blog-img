@@ -1,5 +1,16 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-09-29 22:24:30 CST
+> 更新时间：2026-10-01 08:54:28 CST
+
+---
+
+## 2026-10-01（共 4 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | OpenAI 发布 GPT-6.1 Sol 和 Dots【AI 早报 2026-09-30】 | [▶](https://www.bilibili.com/video/BV1LdaX6tEqb) |
+| 3706929260006322 | 【黑鸦】AI圈大地震！MiniMax 上新 M Plan 订阅，字节“小豆”深夜引爆硅谷，独立App空降突袭！ | [▶](https://www.bilibili.com/video/BV1gaao68EYP) |
+| 3493082576193678 | Deepseek开源华为昇腾基础组件 ｜ 9月30日AI日报第534期 | [▶](https://www.bilibili.com/video/BV1XGaZ6wEup) |
+| 3537104715909319 | 13.4万岗位集中放岗 | [▶](https://www.bilibili.com/video/BV1uvao6tEtV) |
 
 ---
 
