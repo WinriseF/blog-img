@@ -1,5 +1,17 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-10-01 08:54:28 CST
+> 更新时间：2026-10-04 06:29:19 CST
+
+---
+
+## 2026-10-04（共 5 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | ChatGPT 用量重置；Gemini 调整用户模型访问权限【AI 早报 2026-10-03】 | [▶](https://www.bilibili.com/video/BV1j8Hh6zEYk) |
+| 3706929260006322 | 【黑鸦】AI订阅大战杀疯了！谷歌接入Claude双5.5斩杀学生会员，Xpass计划把Grok、Cursor炼成全家桶，四档价格炸裂、看得人头皮发麻！ | [▶](https://www.bilibili.com/video/BV1yzHe6FE2M) |
+| 67079745 | 【科技补全122】黑屏重启？部分品牌新机疑似翻车；开源项目让AMD也能用上DLSS5；华为、荣耀发布新手机；云盘也有公摊？123云盘新规惹争议； | [▶](https://www.bilibili.com/video/BV1YAHv6CET2) |
+| 3493082576193678 | Antigravity上线Opus5.5以及Sonnet5.5，匿名模型Fledge Alpha上线OpenCode ｜ 10月3日AI日报第537期 | [▶](https://www.bilibili.com/video/BV1vFHv61Eze) |
+| 3537104715909319 | 2026年10月3日信息差 | [▶](https://www.bilibili.com/video/BV1NzHe6cEVn) |
 
 ---
 
