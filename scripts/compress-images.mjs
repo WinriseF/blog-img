@@ -27,6 +27,8 @@ function toRelativePath(file) {
 }
 
 async function collectImages(directory, files) {
+	// These pre-encoded WebGL assets have versioned names and immutable CDN caching.
+	if (toRelativePath(directory) === 'images/project/orbitalis') return files;
 	const entries = await readdir(directory, { withFileTypes: true });
 	for (const entry of entries) {
 		if (entry.isDirectory()) {
