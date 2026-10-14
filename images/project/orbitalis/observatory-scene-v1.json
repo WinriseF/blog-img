@@ -1,0 +1,506 @@
+{
+  "coordinateSystem": "three-y-up",
+  "planet": {
+    "position": [
+      -0.55000001,
+      0.34999999,
+      0
+    ],
+    "quaternion": [
+      0.413011163,
+      0.581873119,
+      -0.061157357,
+      0.697929323
+    ],
+    "scale": [
+      1,
+      0.99999994,
+      1
+    ],
+    "prototype": "Planet_Core",
+    "radius": 5.05,
+    "roughness": 0.92,
+    "emissiveIntensity": 0.045
+  },
+  "camera": {
+    "position": [
+      0.03301453835,
+      0.69856543589,
+      33.25363458814
+    ],
+    "target": [
+      -0.1,
+      0.1,
+      0
+    ],
+    "fov": 31.41727565803149,
+    "near": 0.1,
+    "far": 150,
+    "referenceAspect": 1.3333333333333333
+  },
+  "lights": [
+    {
+      "type": "directional",
+      "name": "warm-key",
+      "position": [
+        12,
+        7,
+        4
+      ],
+      "target": [
+        -0.55000001,
+        0.34999999,
+        0
+      ],
+      "colorLinear": [
+        1,
+        0.86,
+        0.74
+      ],
+      "sourceIntensity": 3.5,
+      "realtimeDirectionalIntensity": 3.5
+    },
+    {
+      "type": "fill",
+      "name": "blue-nebula-fill",
+      "position": [
+        -8,
+        4,
+        7
+      ],
+      "target": [
+        -0.55000001,
+        0.34999999,
+        0
+      ],
+      "colorLinear": [
+        0.17,
+        0.35,
+        1
+      ],
+      "sourceWatts": 130,
+      "sourceSize": 9,
+      "realtimeDirectionalIntensity": 0.12
+    },
+    {
+      "type": "rim",
+      "name": "warm-back-rim",
+      "position": [
+        6,
+        7,
+        -4
+      ],
+      "target": [
+        -0.55000001,
+        0.34999999,
+        0
+      ],
+      "colorLinear": [
+        1,
+        0.49,
+        0.3
+      ],
+      "sourceWatts": 1500,
+      "sourceSize": 6,
+      "realtimeDirectionalIntensity": 0.6
+    }
+  ],
+  "ambient": {
+    "colorLinear": [
+      0.05,
+      0.065,
+      0.13
+    ],
+    "intensity": 0.13
+  },
+  "atmosphere": {
+    "center": [
+      -0.55000001,
+      0.34999999,
+      0
+    ],
+    "layers": [
+      {
+        "radius": 5.064,
+        "power": 8,
+        "opacity": 0.7,
+        "colorLinear": [
+          0.16,
+          0.48,
+          1
+        ],
+        "emission": 5
+      },
+      {
+        "radius": 5.102,
+        "power": 12,
+        "opacity": 0.25,
+        "colorLinear": [
+          0.18,
+          0.22,
+          1
+        ],
+        "emission": 0.8
+      }
+    ],
+    "lightDirection": [
+      0.85052991,
+      0.45067921,
+      0.27108523
+    ],
+    "lightAmbient": 0.1
+  },
+  "sourceRender": {
+    "renderer": "Blender 4.3 Cycles",
+    "toneMapping": "AgX Medium High Contrast",
+    "exposureEV": 0.35
+  },
+  "model": {
+    "files": [
+      "planet-mesh-v1.glb"
+    ]
+  },
+  "station": {
+    "name": "Approved detailed ring station",
+    "model": {
+      "files": [
+        "station-model-v1.part-01.bin",
+        "station-model-v1.part-02.bin"
+      ]
+    },
+    "position": [
+      7.120790159491965,
+      -3.7229859199182536,
+      4.751816910744019
+    ],
+    "quaternion": [
+      0.840063306594676,
+      0.46117196392528625,
+      2.8238638473880024e-17,
+      0.2856817470587053
+    ],
+    "scale": [
+      0.012145571485808387,
+      0.012145571485808387,
+      0.012145571485808387
+    ],
+    "placementIsOuterAnchor": true,
+    "faceNormalWorld": [
+      0.7748272898476731,
+      -0.41141271817356095,
+      0.47998150613575946
+    ],
+    "ringDiameter": 4.2,
+    "geometry": {
+      "triangles": 429760,
+      "meshes": 66,
+      "materials": 13,
+      "boundsMin": [
+        -172.90252685546875,
+        -333.75,
+        -172.90252685546875
+      ],
+      "boundsMax": [
+        172.90252685546875,
+        20.69999885559082,
+        172.90252685546875
+      ],
+      "noDecimation": true,
+      "originalGeometryPreservedExceptBearingRootAdjustments": true,
+      "addedBearingTriangles": 15708
+    },
+    "annularPivots": [
+      {
+        "name": "01 | segmented bronze annulus | animation pivot",
+        "axis": [
+          0,
+          1,
+          0
+        ],
+        "origin": [
+          0,
+          0,
+          0
+        ],
+        "animated": false
+      },
+      {
+        "name": "02 | outer habitation rotating ring | animation pivot",
+        "axis": [
+          0,
+          1,
+          0
+        ],
+        "origin": [
+          0,
+          0,
+          0
+        ],
+        "animated": false
+      },
+      {
+        "name": "03 | exposed perimeter truss | animation pivot",
+        "axis": [
+          0,
+          1,
+          0
+        ],
+        "origin": [
+          0,
+          0,
+          0
+        ],
+        "animated": false
+      },
+      {
+        "name": "04 | inner circulation ring | animation pivot",
+        "axis": [
+          0,
+          1,
+          0
+        ],
+        "origin": [
+          0,
+          0,
+          0
+        ],
+        "animated": false
+      }
+    ],
+    "motion": {
+      "spinAxis": [
+        0,
+        1,
+        0
+      ],
+      "spinRadiansPerSecond": 0,
+      "driftAmplitude": [
+        0,
+        0,
+        0
+      ],
+      "driftRadiansPerSecond": 0,
+      "rigidWholeStation": false,
+      "fullPlanetOrbit": true,
+      "facePlanetCenter": true,
+      "orbit": {
+        "normal": [
+          0.3497439184125889,
+          0.9114491622274071,
+          0.2166555242969037
+        ],
+        "radiansPerSecond": 0.04,
+        "radius": 9.9,
+        "initialPhaseRadians": 0
+      },
+      "inwardAxis": [
+        0,
+        -1,
+        0
+      ]
+    },
+    "lights": [
+      {
+        "type": "directional",
+        "name": "station-key",
+        "position": [
+          7,
+          8,
+          12
+        ],
+        "target": [
+          5.1,
+          -2.65,
+          3.5
+        ],
+        "colorLinear": [
+          1,
+          0.94,
+          0.84
+        ],
+        "intensity": 2.6
+      },
+      {
+        "type": "directional",
+        "name": "station-fill",
+        "position": [
+          -4,
+          1,
+          10
+        ],
+        "target": [
+          5.1,
+          -2.65,
+          3.5
+        ],
+        "colorLinear": [
+          0.66,
+          0.8,
+          1
+        ],
+        "intensity": 1.3
+      },
+      {
+        "type": "directional",
+        "name": "station-rim",
+        "position": [
+          8,
+          -3,
+          -5
+        ],
+        "target": [
+          5.1,
+          -2.65,
+          3.5
+        ],
+        "colorLinear": [
+          0.65,
+          0.82,
+          1
+        ],
+        "intensity": 2.2
+      }
+    ],
+    "hemisphere": {
+      "skyColorLinear": [
+        0.7,
+        0.8,
+        1
+      ],
+      "groundColorLinear": [
+        0.18,
+        0.21,
+        0.28
+      ],
+      "intensity": 0.65,
+      "position": [
+        0,
+        1,
+        0
+      ]
+    },
+    "materialOverrides": [
+      {
+        "name": "Ceramic alloy | warm white",
+        "metalness": 0.55,
+        "roughness": 0.4300000071525574
+      },
+      {
+        "name": "Dark machinery",
+        "metalness": 0.55,
+        "roughness": 0.4000000059604645
+      },
+      {
+        "name": "Silver edge trim",
+        "metalness": 0.55,
+        "roughness": 0.38
+      },
+      {
+        "name": "Structural titanium",
+        "metalness": 0.55,
+        "roughness": 0.38
+      },
+      {
+        "name": "Thermal bronze",
+        "metalness": 0.55,
+        "roughness": 0.4000000059604645
+      },
+      {
+        "name": "Thermal bronze alternate",
+        "metalness": 0.55,
+        "roughness": 0.44999998807907104
+      },
+      {
+        "name": "Cool blue glass",
+        "metalness": 0.55,
+        "roughness": 0.38
+      },
+      {
+        "name": "Golden solar cells",
+        "metalness": 0.55,
+        "roughness": 0.38
+      }
+    ],
+    "renderLayer": 1,
+    "visibilityNotes": [
+      "All original base-color factors and small emissive window/service materials retained.",
+      "Only listed non-emissive metalness/roughness values adjusted for soft readable metal without an environment texture.",
+      "Animate only Ring_Rotor, carrying all annular decks, spokes, arrays, utilities and rear fans together. Existing annularPivots animated:false means no independent child-pivot animation. Moving-versus-fixed swept clearance certified for every angle with minimum radial gap0.24426 model units.",
+      "Render planet/atmosphere and original lights with camera layer 0, then station and its lights with camera layer 1, without clearing color/depth and with background disabled for the second pass.",
+      "Three.js light layers alone do not isolate illumination by object; separate camera-layer render passes are required.",
+      "Offline Cycles includes self-shadow and environment reflection responses that are only an approximation of realtime PBR.",
+      "Runtime shadows are disabled. Offline station pass disables cast shadows; environment reflection and hemisphere response remain approximate.",
+      "Offline planet camera-only holdout enforces exact opaque planet-mesh occlusion before compositing; transparent atmosphere response is approximate."
+    ],
+    "renderPasses": [
+      {
+        "cameraLayer": 0,
+        "content": "planet, atmosphere, original lighting, background",
+        "clearColor": true,
+        "clearDepth": true
+      },
+      {
+        "cameraLayer": 1,
+        "content": "station and dedicated lighting",
+        "clearColor": false,
+        "clearDepth": false,
+        "background": null
+      }
+    ],
+    "inwardAxisWorld": [
+      -0.7748272898476731,
+      0.41141271817356095,
+      -0.47998150613575946
+    ],
+    "rotor": {
+      "nodeName": "Ring_Rotor",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "radiansPerSecond": 0.1
+    }
+  },
+  "background": "space-background-v1.webp",
+  "fallback": "observatory-poster-v1.webp",
+  "textures": {
+    "1K": {
+      "width": 1024,
+      "height": 512,
+      "mime": "image/webp",
+      "files": [
+        "planet-preview-1k-v1.webp"
+      ]
+    },
+    "4K": {
+      "width": 4096,
+      "height": 2048,
+      "mime": "image/avif",
+      "files": [
+        "planet-color-4k-v1.avif"
+      ]
+    },
+    "8K": {
+      "width": 8192,
+      "height": 4096,
+      "mime": "image/avif",
+      "files": [
+        "planet-color-8k-v1.avif"
+      ],
+      "bytes": 8579721,
+      "sha256": "03d5c6bdeb775dea3778dc768552143a1c87b14c982076cd31ea9c1d8c3be43a"
+    },
+    "16K": {
+      "width": 15360,
+      "height": 7680,
+      "mime": "image/avif",
+      "files": [
+        "planet-color-16k-v1.part-01.bin",
+        "planet-color-16k-v1.part-02.bin"
+      ],
+      "bytes": 22119758,
+      "sha256": "332eee5821be269c947db4dbc6d5fcc8af702940f8b36ac3ece4bdd7913900aa"
+    }
+  }
+}
