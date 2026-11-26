@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-10-05 06:08:15 CST
+> 更新时间：2026-11-26 11:15:56 CST
+
+---
+
+## 2026-11-26（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 285286947 | ChatGPT 合并 Chat 和 Work，部分用户率先体验【AI 早报 2026-11-25】 | [▶](https://www.bilibili.com/video/BV1rbyizNEp9) |
+| 3706929260006322 | Codex 3.0？大的要来了？Codex 削减额度？Claude Code 前核心开发者 Thariq 转投 OpenAI？ | [▶](https://www.bilibili.com/video/BV1cdyzz5Eyr) |
+| 3706929260006322 | ChatGPT 开始合并 Chat 和 Work，部分用户率先体验【AI 早报 2026-11-25】 | [▶](https://www.bilibili.com/video/BV1k4yiziEHq) |
 
 ---
 
