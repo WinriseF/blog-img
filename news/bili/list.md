@@ -1,5 +1,15 @@
 # B 站 UP 内容精选列表
-> 更新时间：2026-11-26 11:15:56 CST
+> 更新时间：2026-11-27 12:37:57 CST
+
+---
+
+## 2026-11-27（共 3 个视频）
+
+| UP 主 | 视频 | 链接 |
+|-------|------|------|
+| 3706929260006322 | OpenAI 官宣 GPT-6.2 计费出错，额度消耗将大幅加速！补偿手动重置！Antigravity 重置所有用户 Gemini 额度！ | [▶](https://www.bilibili.com/video/BV17V1EzjEmd) |
+| 3706929260006322 | AI圈大地震！Antigravity祭出缓存核弹AI圈大地震！Neon 实际用量还在涨，官宣开发 banked reset！ | [▶](https://www.bilibili.com/video/BV1FhymzYEkz) |
+| 3537104715909319 | SpaceX获批百万卫星太空数据中心，此外，马斯克豪爽捐赠：每名美国儿童将获得两股SpaceX股票 | [▶](https://www.bilibili.com/video/BV1GF17zKEXC) |
 
 ---
 
